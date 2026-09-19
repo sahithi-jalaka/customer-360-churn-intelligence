@@ -1,0 +1,1001 @@
+customer_id,name,complaint_count,negative_call_rate,open_complaints,transaction_count,predicted_churn_probability,risk_level,risk_reason,recommended_action
+C10775,Customer_776,6.0,0.5,2.0,34,0.8211420282035379,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10671,Customer_672,4.0,0.3333333333333333,2.0,39,0.8065005391495161,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10200,Customer_201,7.0,0.625,4.0,48,0.8022853885368958,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10667,Customer_668,8.0,0.42857142857142855,3.0,49,0.8014473414431443,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10430,Customer_431,7.0,0.42857142857142855,3.0,43,0.7980796408724092,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10151,Customer_152,3.0,0.42857142857142855,2.0,46,0.7963530939901614,High,Multiple open complaints,Escalate and resolve open complaints immediately
+C10191,Customer_192,1.0,0.6666666666666666,1.0,41,0.7960959181385501,High,High negative call rate,Priority customer-service follow-up
+C10460,Customer_461,4.0,0.2,3.0,48,0.790415710529925,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10038,Customer_39,5.0,0.5,2.0,45,0.7852212066793606,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10247,Customer_248,6.0,0.25,4.0,46,0.7821315848301728,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10234,Customer_235,6.0,0.25,4.0,42,0.7808500438737286,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10249,Customer_250,7.0,0.23076923076923078,3.0,43,0.779599038586503,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10724,Customer_725,2.0,0.2222222222222222,2.0,45,0.7689614105752651,High,Multiple open complaints,Escalate and resolve open complaints immediately
+C10538,Customer_539,4.0,0.5714285714285714,2.0,43,0.767937462534668,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10228,Customer_229,3.0,0.7142857142857143,2.0,46,0.7663788165283716,High,"High negative call rate, Multiple open complaints",Escalate and resolve open complaints immediately
+C10878,Customer_879,8.0,0.25,4.0,50,0.7659773662057617,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10466,Customer_467,6.0,0.0,4.0,47,0.7653299541390344,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10950,Customer_951,7.0,0.25,2.0,36,0.7650200257312365,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10384,Customer_385,3.0,0.42857142857142855,2.0,46,0.7627587468771452,High,Multiple open complaints,Escalate and resolve open complaints immediately
+C10146,Customer_147,6.0,0.5,4.0,49,0.7594566780807074,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10522,Customer_523,9.0,0.6,3.0,49,0.7589430547073898,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10631,Customer_632,4.0,0.5,2.0,48,0.7585682815322043,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10553,Customer_554,5.0,0.5,1.0,50,0.7500291989321345,High,"High negative call rate, High complaint count",Priority customer-service follow-up
+C10819,Customer_820,7.0,0.0,3.0,52,0.749963252139498,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10107,Customer_108,3.0,0.375,1.0,41,0.7469113054976759,High,Relatively low transaction activity,Proactive retention campaign
+C10978,Customer_979,2.0,0.0,1.0,40,0.7462504218987424,High,Relatively low transaction activity,Proactive retention campaign
+C10318,Customer_319,4.0,0.42857142857142855,1.0,47,0.7367176124856062,High,High complaint count,Assign priority support and retention offer
+C10687,Customer_688,7.0,0.0,3.0,44,0.7363639101779248,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10755,Customer_756,5.0,0.2222222222222222,1.0,56,0.7288972425856038,High,High complaint count,Assign priority support and retention offer
+C10295,Customer_296,5.0,0.0,3.0,52,0.7282039465402027,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10449,Customer_450,7.0,0.0,3.0,57,0.7262677824977124,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10163,Customer_164,5.0,0.375,1.0,42,0.7260526885333799,High,High complaint count,Assign priority support and retention offer
+C10984,Customer_985,3.0,0.2857142857142857,1.0,53,0.7249199940013196,High,Customer has complaint history,Proactive retention campaign
+C10058,Customer_59,3.0,0.5,1.0,49,0.7246238074358929,High,High negative call rate,Priority customer-service follow-up
+C10099,Customer_100,5.0,0.3333333333333333,3.0,39,0.7241492616154531,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10791,Customer_792,5.0,0.2727272727272727,2.0,52,0.7220269365020259,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10054,Customer_55,5.0,1.0,4.0,55,0.7194100299734015,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10576,Customer_577,4.0,0.5,2.0,50,0.7179762993166122,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10398,Customer_399,4.0,0.5,2.0,70,0.7176161481690844,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10124,Customer_125,3.0,0.25,3.0,48,0.7140267496013148,High,Multiple open complaints,Escalate and resolve open complaints immediately
+C10608,Customer_609,5.0,0.375,2.0,43,0.7107921208256618,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10263,Customer_264,3.0,0.25,1.0,46,0.7099840326650704,High,Relatively low transaction activity,Proactive retention campaign
+C10951,Customer_952,4.0,0.4,2.0,55,0.7090014529404364,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10419,Customer_420,4.0,1.0,3.0,60,0.7062363807647241,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10927,Customer_928,2.0,0.6,2.0,55,0.7018579977104961,High,"High negative call rate, Multiple open complaints",Escalate and resolve open complaints immediately
+C10561,Customer_562,4.0,0.2,2.0,52,0.6993149117639088,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10874,Customer_875,4.0,0.2857142857142857,2.0,47,0.6991182042441132,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10475,Customer_476,6.0,0.4,3.0,55,0.6988436416881514,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10654,Customer_655,6.0,0.125,2.0,53,0.6987485606445738,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10965,Customer_966,2.0,0.4,2.0,43,0.6958847330465076,High,Multiple open complaints,Escalate and resolve open complaints immediately
+C10452,Customer_453,2.0,0.5,2.0,48,0.6949265136453212,High,"High negative call rate, Multiple open complaints",Escalate and resolve open complaints immediately
+C10109,Customer_110,4.0,1.0,2.0,53,0.6936338579613094,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10361,Customer_362,4.0,0.125,1.0,45,0.6927409394616437,High,High complaint count,Assign priority support and retention offer
+C10459,Customer_460,1.0,0.5,1.0,43,0.692706483742356,High,High negative call rate,Priority customer-service follow-up
+C10048,Customer_49,3.0,0.14285714285714285,3.0,54,0.6925980000171525,High,Multiple open complaints,Escalate and resolve open complaints immediately
+C10915,Customer_916,6.0,0.5,2.0,57,0.6900443426410936,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10392,Customer_393,2.0,0.5,2.0,50,0.6888554092763051,High,"High negative call rate, Multiple open complaints",Escalate and resolve open complaints immediately
+C10848,Customer_849,4.0,0.5,2.0,65,0.6883112722313921,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10664,Customer_665,6.0,0.2,1.0,50,0.6881966693023293,High,High complaint count,Assign priority support and retention offer
+C10798,Customer_799,4.0,0.0,2.0,58,0.6863974721183171,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10006,Customer_7,5.0,0.2857142857142857,2.0,47,0.6860144142736645,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10789,Customer_790,7.0,0.5,3.0,50,0.6855776848311002,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10159,Customer_160,6.0,0.0,2.0,54,0.6849735321571893,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10695,Customer_696,3.0,0.3333333333333333,1.0,40,0.6848372729687526,High,Relatively low transaction activity,Proactive retention campaign
+C10162,Customer_163,6.0,0.16666666666666666,2.0,44,0.6833757899805204,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10418,Customer_419,4.0,0.5,3.0,54,0.6824577058932138,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10625,Customer_626,6.0,0.5,3.0,49,0.6820284601474857,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10448,Customer_449,2.0,0.2,2.0,44,0.6819694520141527,High,Multiple open complaints,Escalate and resolve open complaints immediately
+C10450,Customer_451,1.0,0.5555555555555556,0.0,43,0.6819037679443247,High,High negative call rate,Priority customer-service follow-up
+C10433,Customer_434,4.0,0.2,2.0,51,0.6803341755637305,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10852,Customer_853,6.0,0.75,4.0,51,0.6802354834832718,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10534,Customer_535,6.0,0.09090909090909091,2.0,49,0.6790040692052609,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10866,Customer_867,5.0,0.42857142857142855,0.0,48,0.6780218356443939,High,High complaint count,Assign priority support and retention offer
+C10746,Customer_747,4.0,0.0,2.0,40,0.6778695945093627,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10340,Customer_341,5.0,0.75,0.0,51,0.6763508370939852,High,"High negative call rate, High complaint count",Priority customer-service follow-up
+C10719,Customer_720,4.0,0.3,1.0,43,0.6762003940292265,High,High complaint count,Assign priority support and retention offer
+C10404,Customer_405,4.0,0.3333333333333333,0.0,40,0.6749137487690076,High,High complaint count,Assign priority support and retention offer
+C10934,Customer_935,3.0,0.2727272727272727,1.0,53,0.6742311159122477,High,Customer has complaint history,Proactive retention campaign
+C10066,Customer_67,5.0,0.5,2.0,47,0.6722642751388405,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10702,Customer_703,3.0,0.7142857142857143,1.0,51,0.670537386900729,High,High negative call rate,Priority customer-service follow-up
+C10581,Customer_582,3.0,0.0,2.0,55,0.6703634911397354,High,Multiple open complaints,Escalate and resolve open complaints immediately
+C10583,Customer_584,4.0,0.14285714285714285,3.0,59,0.6694913100028971,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10680,Customer_681,5.0,0.125,0.0,44,0.6694042362770826,High,High complaint count,Assign priority support and retention offer
+C10814,Customer_815,5.0,0.25,2.0,44,0.6667676817742029,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10256,Customer_257,3.0,0.3333333333333333,1.0,53,0.6667226398252558,High,Customer has complaint history,Proactive retention campaign
+C10223,Customer_224,6.0,0.0,3.0,38,0.6647851874727959,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10592,Customer_593,3.0,0.4,2.0,45,0.6647563538599569,High,Multiple open complaints,Escalate and resolve open complaints immediately
+C10572,Customer_573,5.0,0.3333333333333333,1.0,66,0.6637498146635804,High,High complaint count,Assign priority support and retention offer
+C10420,Customer_421,4.0,1.0,0.0,46,0.663458752525508,High,"High negative call rate, High complaint count",Priority customer-service follow-up
+C10786,Customer_787,2.0,0.5,1.0,51,0.6615205214812632,High,High negative call rate,Priority customer-service follow-up
+C10752,Customer_753,2.0,0.6666666666666666,1.0,39,0.6615049904669996,High,High negative call rate,Priority customer-service follow-up
+C10304,Customer_305,2.0,0.0,2.0,39,0.6612063021569939,High,Multiple open complaints,Escalate and resolve open complaints immediately
+C10959,Customer_960,2.0,0.3333333333333333,1.0,44,0.6605010143738591,High,Relatively low transaction activity,Proactive retention campaign
+C10251,Customer_252,5.0,0.2,2.0,40,0.6600307217944958,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10551,Customer_552,5.0,0.6,1.0,40,0.659698237606171,High,"High negative call rate, High complaint count",Priority customer-service follow-up
+C10436,Customer_437,2.0,0.2,2.0,40,0.6589482542023327,High,Multiple open complaints,Escalate and resolve open complaints immediately
+C10872,Customer_873,1.0,0.2857142857142857,1.0,46,0.658924854700182,High,Relatively low transaction activity,Proactive retention campaign
+C10933,Customer_934,6.0,0.2857142857142857,3.0,52,0.6578890192091638,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10416,Customer_417,4.0,0.4,2.0,47,0.6574702609669062,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10429,Customer_430,2.0,0.625,1.0,48,0.6568654518530151,High,High negative call rate,Priority customer-service follow-up
+C10265,Customer_266,6.0,0.2,1.0,58,0.6561617358297591,High,High complaint count,Assign priority support and retention offer
+C10928,Customer_929,4.0,0.42857142857142855,2.0,54,0.6549202455158339,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10861,Customer_862,4.0,0.375,1.0,48,0.6539949452170046,High,High complaint count,Assign priority support and retention offer
+C10637,Customer_638,5.0,0.4,2.0,50,0.6538622361374604,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10662,Customer_663,3.0,0.2,1.0,52,0.6528635858806424,High,Customer has complaint history,Proactive retention campaign
+C10029,Customer_30,2.0,0.125,2.0,58,0.6518123894524079,High,Multiple open complaints,Escalate and resolve open complaints immediately
+C10776,Customer_777,1.0,0.5,1.0,48,0.6500775613015073,High,High negative call rate,Priority customer-service follow-up
+C10908,Customer_909,5.0,0.3333333333333333,2.0,49,0.6500476646131047,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10134,Customer_135,6.0,0.25,1.0,44,0.6491523130343091,High,High complaint count,Assign priority support and retention offer
+C10110,Customer_111,3.0,0.6,1.0,55,0.6489715095811779,High,High negative call rate,Priority customer-service follow-up
+C10952,Customer_953,7.0,0.25,1.0,39,0.6486312663185569,High,High complaint count,Assign priority support and retention offer
+C10674,Customer_675,4.0,0.5,2.0,47,0.6483266684086872,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10456,Customer_457,5.0,0.0,2.0,46,0.6481238647711995,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10961,Customer_962,7.0,1.0,3.0,47,0.647324251184801,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10077,Customer_78,3.0,0.0,3.0,51,0.6472208995025289,High,Multiple open complaints,Escalate and resolve open complaints immediately
+C10354,Customer_355,6.0,0.5,0.0,47,0.6467806834207607,High,"High negative call rate, High complaint count",Priority customer-service follow-up
+C10081,Customer_82,5.0,0.0,3.0,60,0.6465669044128872,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10027,Customer_28,6.0,0.375,2.0,52,0.6461000549329465,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10440,Customer_441,3.0,0.5,2.0,52,0.6459377523161615,High,"High negative call rate, Multiple open complaints",Escalate and resolve open complaints immediately
+C10339,Customer_340,4.0,0.8571428571428571,0.0,47,0.6446489854274203,High,"High negative call rate, High complaint count",Priority customer-service follow-up
+C10005,Customer_6,5.0,0.25,1.0,46,0.6433791664890642,High,High complaint count,Assign priority support and retention offer
+C10072,Customer_73,1.0,0.3333333333333333,1.0,53,0.6426718595670283,High,Customer has complaint history,Proactive retention campaign
+C10012,Customer_13,3.0,0.125,2.0,57,0.6420273821946825,High,Multiple open complaints,Escalate and resolve open complaints immediately
+C10985,Customer_986,4.0,0.25,3.0,45,0.6398840419762826,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10827,Customer_828,5.0,0.3,1.0,53,0.6398143209481296,High,High complaint count,Assign priority support and retention offer
+C10612,Customer_613,4.0,0.3333333333333333,1.0,34,0.6391617552471102,High,High complaint count,Assign priority support and retention offer
+C10781,Customer_782,3.0,0.5,1.0,35,0.6391171093288294,High,High negative call rate,Priority customer-service follow-up
+C10447,Customer_448,6.0,0.0,1.0,39,0.6390201302450023,High,High complaint count,Assign priority support and retention offer
+C10994,Customer_995,1.0,0.125,1.0,40,0.6387482399370461,High,Relatively low transaction activity,Proactive retention campaign
+C10571,Customer_572,3.0,0.1,1.0,42,0.6387314899417217,High,Relatively low transaction activity,Proactive retention campaign
+C10369,Customer_370,3.0,0.3333333333333333,1.0,43,0.6386356875570349,High,Relatively low transaction activity,Proactive retention campaign
+C10471,Customer_472,3.0,0.42857142857142855,0.0,54,0.6386027481105957,High,Customer has complaint history,Proactive retention campaign
+C10399,Customer_400,3.0,0.4,1.0,45,0.6385838188116113,High,Relatively low transaction activity,Proactive retention campaign
+C10636,Customer_637,4.0,0.8,1.0,60,0.6373130260713694,High,"High negative call rate, High complaint count",Priority customer-service follow-up
+C10657,Customer_658,6.0,0.0,1.0,56,0.6356719611509084,High,High complaint count,Assign priority support and retention offer
+C10358,Customer_359,4.0,0.2857142857142857,3.0,49,0.6355702849390678,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10230,Customer_231,5.0,0.5,1.0,54,0.6339379583686101,High,"High negative call rate, High complaint count",Priority customer-service follow-up
+C10711,Customer_712,2.0,0.2,1.0,37,0.6334463505707192,High,Relatively low transaction activity,Proactive retention campaign
+C10867,Customer_868,3.0,0.4,1.0,51,0.6315088750464967,High,Customer has complaint history,Proactive retention campaign
+C10242,Customer_243,4.0,0.0,2.0,56,0.6297238265111209,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10773,Customer_774,9.0,0.3333333333333333,0.0,53,0.6296824505369204,High,High complaint count,Assign priority support and retention offer
+C10401,Customer_402,3.0,0.125,1.0,46,0.6296733802250285,High,Relatively low transaction activity,Proactive retention campaign
+C10434,Customer_435,4.0,0.2857142857142857,1.0,49,0.6255264138977206,High,High complaint count,Assign priority support and retention offer
+C10306,Customer_307,3.0,0.16666666666666666,1.0,46,0.62497907491969,High,Relatively low transaction activity,Proactive retention campaign
+C10512,Customer_513,2.0,0.36363636363636365,0.0,47,0.6244487361738911,High,Relatively low transaction activity,Proactive retention campaign
+C10490,Customer_491,1.0,0.4444444444444444,0.0,41,0.6241740022202394,High,Relatively low transaction activity,Proactive retention campaign
+C10504,Customer_505,2.0,0.5,0.0,38,0.6238633619979306,High,High negative call rate,Priority customer-service follow-up
+C10174,Customer_175,7.0,0.5555555555555556,1.0,52,0.6230842092349496,High,"High negative call rate, High complaint count",Priority customer-service follow-up
+C10599,Customer_600,7.0,0.25,1.0,51,0.6218885869067944,High,High complaint count,Assign priority support and retention offer
+C10644,Customer_645,4.0,0.2222222222222222,0.0,37,0.620634061695799,High,High complaint count,Assign priority support and retention offer
+C10364,Customer_365,2.0,0.5555555555555556,0.0,52,0.6204943186360354,High,High negative call rate,Priority customer-service follow-up
+C10525,Customer_526,3.0,0.4,2.0,46,0.6204234702105645,High,Multiple open complaints,Escalate and resolve open complaints immediately
+C10428,Customer_429,3.0,0.2,0.0,39,0.6204012566290353,High,Relatively low transaction activity,Proactive retention campaign
+C10307,Customer_308,2.0,0.5555555555555556,1.0,54,0.6186393241847538,High,High negative call rate,Priority customer-service follow-up
+C10064,Customer_65,3.0,0.5714285714285714,0.0,49,0.6180951276864097,High,High negative call rate,Priority customer-service follow-up
+C10317,Customer_318,5.0,0.0,1.0,52,0.6176152522975735,High,High complaint count,Assign priority support and retention offer
+C10883,Customer_884,3.0,0.3333333333333333,1.0,49,0.6172764638062153,High,Relatively low transaction activity,Proactive retention campaign
+C10903,Customer_904,5.0,0.0,1.0,42,0.6169444883012584,High,High complaint count,Assign priority support and retention offer
+C10098,Customer_99,3.0,0.5,2.0,44,0.6163692935048551,High,"High negative call rate, Multiple open complaints",Escalate and resolve open complaints immediately
+C10075,Customer_76,6.0,0.0,1.0,46,0.6163077215594343,High,High complaint count,Assign priority support and retention offer
+C10095,Customer_96,5.0,0.5,1.0,46,0.6162944817850807,High,"High negative call rate, High complaint count",Priority customer-service follow-up
+C10329,Customer_330,5.0,0.3333333333333333,1.0,54,0.6162926464637021,High,High complaint count,Assign priority support and retention offer
+C10374,Customer_375,3.0,0.2222222222222222,1.0,51,0.6161834943585256,High,Customer has complaint history,Proactive retention campaign
+C10728,Customer_729,8.0,0.3333333333333333,3.0,41,0.6161730411695154,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10955,Customer_956,2.0,0.2222222222222222,1.0,58,0.6154126350763937,High,Customer has complaint history,Proactive retention campaign
+C10024,Customer_25,4.0,0.2222222222222222,0.0,50,0.6149239680622028,High,High complaint count,Assign priority support and retention offer
+C10821,Customer_822,7.0,0.2,3.0,47,0.6141985102938774,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10820,Customer_821,3.0,0.42857142857142855,1.0,55,0.6141467129616759,High,Customer has complaint history,Proactive retention campaign
+C10739,Customer_740,5.0,0.5,3.0,56,0.6141111265156521,High,"High negative call rate, Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10060,Customer_61,3.0,0.0,2.0,40,0.6140845462888578,High,Multiple open complaints,Escalate and resolve open complaints immediately
+C10050,Customer_51,5.0,0.75,1.0,49,0.6133801153759677,High,"High negative call rate, High complaint count",Priority customer-service follow-up
+C10905,Customer_906,3.0,0.25,1.0,42,0.613011691182837,High,Relatively low transaction activity,Proactive retention campaign
+C10068,Customer_69,6.0,0.2,3.0,54,0.6122174650958451,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10385,Customer_386,3.0,0.2,2.0,35,0.6119510054620533,High,Multiple open complaints,Escalate and resolve open complaints immediately
+C10847,Customer_848,4.0,0.2,1.0,49,0.6107923709323452,High,High complaint count,Assign priority support and retention offer
+C10278,Customer_279,1.0,0.5,1.0,46,0.6102650917524728,High,High negative call rate,Priority customer-service follow-up
+C10194,Customer_195,2.0,0.5,1.0,39,0.6088619464472343,High,High negative call rate,Priority customer-service follow-up
+C10150,Customer_151,3.0,0.42857142857142855,0.0,37,0.6042144192675708,High,Relatively low transaction activity,Proactive retention campaign
+C10403,Customer_404,4.0,0.3333333333333333,2.0,47,0.6038585212337245,High,"Multiple open complaints, High complaint count",Escalate and resolve open complaints immediately
+C10394,Customer_395,3.0,0.625,0.0,57,0.6033423190834841,High,High negative call rate,Priority customer-service follow-up
+C10760,Customer_761,3.0,0.16666666666666666,2.0,56,0.6023016095342555,High,Multiple open complaints,Escalate and resolve open complaints immediately
+C10957,Customer_958,5.0,0.0,1.0,47,0.6016485365050966,High,High complaint count,Assign priority support and retention offer
+C10018,Customer_19,5.0,0.5,0.0,59,0.60161705299781,High,"High negative call rate, High complaint count",Priority customer-service follow-up
+C10482,Customer_483,2.0,0.3,0.0,50,0.6015139791153764,High,Customer has complaint history,Proactive retention campaign
+C10040,Customer_41,4.0,0.3333333333333333,1.0,33,0.6011341673707994,High,High complaint count,Assign priority support and retention offer
+C10574,Customer_575,3.0,0.8,2.0,56,0.6009037272810788,High,"High negative call rate, Multiple open complaints",Escalate and resolve open complaints immediately
+C10359,Customer_360,2.0,0.5555555555555556,0.0,50,0.6007619065480452,High,High negative call rate,Priority customer-service follow-up
+C10943,Customer_944,1.0,0.42857142857142855,1.0,62,0.6005372632166008,High,Customer has complaint history,Proactive retention campaign
+C10857,Customer_858,3.0,0.2,1.0,45,0.6001854437170646,High,Relatively low transaction activity,Proactive retention campaign
+C10432,Customer_433,6.0,0.3333333333333333,2.0,45,0.59928144424286,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10412,Customer_413,4.0,0.0,2.0,47,0.5986122936813143,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10156,Customer_157,5.0,0.4,2.0,54,0.5982621224486476,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10969,Customer_970,5.0,0.0,2.0,45,0.5981056472453877,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10253,Customer_254,2.0,0.6666666666666666,1.0,48,0.5976317839419737,Medium,High negative call rate,Follow up on unresolved complaints
+C10855,Customer_856,2.0,0.5714285714285714,1.0,45,0.5975285705366973,Medium,High negative call rate,Follow up on unresolved complaints
+C10895,Customer_896,6.0,0.0,3.0,55,0.5972921916141971,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10673,Customer_674,3.0,0.5,0.0,40,0.5964996862468734,Medium,High negative call rate,Customer-service follow-up
+C10942,Customer_943,5.0,0.0,3.0,58,0.594955040226724,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10526,Customer_527,5.0,0.3333333333333333,1.0,56,0.5940439465135452,Medium,High complaint count,Follow up on unresolved complaints
+C10843,Customer_844,2.0,0.6666666666666666,2.0,55,0.5936664559881277,Medium,"High negative call rate, Multiple open complaints",Follow up on unresolved complaints
+C10145,Customer_146,5.0,0.25,2.0,63,0.5933662356779853,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10887,Customer_888,3.0,0.4,1.0,48,0.5933445012145205,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10125,Customer_126,6.0,0.2857142857142857,2.0,48,0.5913607034209899,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10001,Customer_2,3.0,0.5555555555555556,1.0,40,0.5909957245883178,Medium,High negative call rate,Follow up on unresolved complaints
+C10290,Customer_291,6.0,0.6666666666666666,1.0,34,0.5908896880276291,Medium,"High negative call rate, High complaint count",Follow up on unresolved complaints
+C10963,Customer_964,2.0,0.3333333333333333,1.0,41,0.5897113884004859,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10941,Customer_942,4.0,0.4,1.0,38,0.5876757222186396,Medium,High complaint count,Follow up on unresolved complaints
+C10283,Customer_284,3.0,0.25,1.0,37,0.5873385903954119,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10350,Customer_351,3.0,0.2,1.0,56,0.5872579545827291,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10096,Customer_97,0.0,0.625,0.0,44,0.5869244629959498,Medium,High negative call rate,Customer-service follow-up
+C10949,Customer_950,3.0,0.0,1.0,59,0.5864685574281788,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10371,Customer_372,2.0,0.2857142857142857,0.0,42,0.5860106484012056,Medium,Relatively low transaction activity,Monitor customer activity
+C10931,Customer_932,2.0,0.4444444444444444,2.0,45,0.5845785358026389,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10326,Customer_327,7.0,0.4,2.0,59,0.5833139624505811,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10822,Customer_823,2.0,1.0,1.0,49,0.5827828784088344,Medium,High negative call rate,Follow up on unresolved complaints
+C10750,Customer_751,1.0,0.5714285714285714,0.0,45,0.5822635109459566,Medium,High negative call rate,Customer-service follow-up
+C10796,Customer_797,1.0,0.42857142857142855,1.0,51,0.5818585002028516,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10206,Customer_207,2.0,0.16666666666666666,1.0,56,0.5814775029821572,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10004,Customer_5,1.0,0.8333333333333334,0.0,45,0.5811277502738632,Medium,High negative call rate,Customer-service follow-up
+C10779,Customer_780,2.0,0.2,2.0,41,0.5809678702993433,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10115,Customer_116,4.0,0.3333333333333333,0.0,40,0.580359143507925,Medium,High complaint count,Monitor customer activity
+C10678,Customer_679,6.0,0.14285714285714285,2.0,54,0.5800300547262986,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10627,Customer_628,3.0,0.2,3.0,56,0.5799660729908394,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10862,Customer_863,3.0,0.2,0.0,55,0.579784057417498,Medium,Customer has complaint history,Monitor customer activity
+C10070,Customer_71,5.0,0.0,1.0,47,0.5795476018365385,Medium,High complaint count,Follow up on unresolved complaints
+C10715,Customer_716,7.0,0.0,0.0,51,0.5795280144484694,Medium,High complaint count,Monitor customer activity
+C10468,Customer_469,2.0,0.1111111111111111,1.0,50,0.5794802012760535,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10640,Customer_641,3.0,0.2,0.0,39,0.5790315075487206,Medium,Relatively low transaction activity,Monitor customer activity
+C10426,Customer_427,3.0,0.3333333333333333,1.0,46,0.5789741203644523,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10543,Customer_544,6.0,0.5,2.0,42,0.5789717853692039,Medium,"High negative call rate, Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10975,Customer_976,9.0,0.0,2.0,48,0.5778057863394298,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10061,Customer_62,3.0,0.3333333333333333,1.0,49,0.5775954636882319,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10297,Customer_298,2.0,0.2,1.0,45,0.5775701589657666,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10053,Customer_54,1.0,0.6,0.0,42,0.5775127077329182,Medium,High negative call rate,Customer-service follow-up
+C10686,Customer_687,1.0,0.0,1.0,42,0.5770981342912382,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10298,Customer_299,1.0,0.3333333333333333,0.0,40,0.5768562192677107,Medium,Relatively low transaction activity,Monitor customer activity
+C10019,Customer_20,2.0,0.16666666666666666,1.0,37,0.576231475724558,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10818,Customer_819,5.0,0.4,3.0,53,0.5758546399295534,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10489,Customer_490,4.0,0.6666666666666666,0.0,38,0.5756726237081272,Medium,"High negative call rate, High complaint count",Customer-service follow-up
+C10721,Customer_722,2.0,0.25,1.0,43,0.5752095201177186,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10498,Customer_499,6.0,0.25,2.0,49,0.5751938328977374,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10353,Customer_354,4.0,0.18181818181818182,1.0,38,0.5751248145704859,Medium,High complaint count,Follow up on unresolved complaints
+C10672,Customer_673,1.0,0.36363636363636365,0.0,48,0.5751195335724132,Medium,Relatively low transaction activity,Monitor customer activity
+C10250,Customer_251,4.0,0.25,1.0,44,0.5749251554740683,Medium,High complaint count,Follow up on unresolved complaints
+C10034,Customer_35,1.0,0.25,1.0,50,0.5740164290151122,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10725,Customer_726,1.0,0.2,1.0,47,0.5737007648432664,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10123,Customer_124,2.0,0.25,1.0,43,0.5736983666921546,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10628,Customer_629,5.0,0.42857142857142855,0.0,45,0.5733217867434238,Medium,High complaint count,Customer-service follow-up
+C10049,Customer_50,4.0,0.25,2.0,38,0.5732112023595466,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10507,Customer_508,1.0,0.0,1.0,50,0.5729991512162395,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10165,Customer_166,3.0,0.4,1.0,53,0.57268476431875,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10341,Customer_342,2.0,0.3333333333333333,2.0,63,0.572628861355992,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10597,Customer_598,3.0,0.2,1.0,47,0.5718518725138498,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10988,Customer_989,2.0,0.4,1.0,41,0.5718355900067624,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10859,Customer_860,2.0,0.3333333333333333,0.0,38,0.5715224506101505,Medium,Relatively low transaction activity,Monitor customer activity
+C10805,Customer_806,2.0,0.3333333333333333,2.0,53,0.5710390951107607,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10270,Customer_271,2.0,0.16666666666666666,2.0,61,0.5696103896600574,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10681,Customer_682,3.0,0.4,0.0,41,0.5692142606682962,Medium,Relatively low transaction activity,Customer-service follow-up
+C10736,Customer_737,4.0,0.6,2.0,50,0.5683881609034601,Medium,"High negative call rate, Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10737,Customer_738,1.0,0.5,0.0,47,0.5677965060285257,Medium,High negative call rate,Customer-service follow-up
+C10487,Customer_488,3.0,0.0,0.0,42,0.5670387612609064,Medium,Relatively low transaction activity,Monitor customer activity
+C10569,Customer_570,5.0,0.5,2.0,61,0.566588025870071,Medium,"High negative call rate, Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10756,Customer_757,2.0,0.0,1.0,54,0.5665095497106633,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10067,Customer_68,4.0,0.25,2.0,52,0.5664951978866126,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10767,Customer_768,4.0,0.16666666666666666,1.0,50,0.5661225104500971,Medium,High complaint count,Follow up on unresolved complaints
+C10712,Customer_713,2.0,0.25,1.0,44,0.5661161250992464,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10545,Customer_546,4.0,0.0,1.0,45,0.5650904043147292,Medium,High complaint count,Follow up on unresolved complaints
+C10441,Customer_442,5.0,0.25,1.0,47,0.564941141542809,Medium,High complaint count,Follow up on unresolved complaints
+C10020,Customer_21,5.0,0.5,2.0,63,0.5649274980207751,Medium,"High negative call rate, Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10010,Customer_11,2.0,0.2857142857142857,1.0,47,0.5649130521327768,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10925,Customer_926,6.0,0.3333333333333333,2.0,53,0.5645198061259278,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10669,Customer_670,6.0,0.5,2.0,54,0.5642793869070601,Medium,"High negative call rate, Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10069,Customer_70,2.0,0.3333333333333333,1.0,45,0.5636566405262096,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10660,Customer_661,3.0,0.0,2.0,46,0.5621525148333559,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10787,Customer_788,3.0,0.0,1.0,40,0.562026111818027,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10650,Customer_651,4.0,0.3333333333333333,3.0,59,0.5617236050810702,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10655,Customer_656,4.0,0.6,1.0,53,0.5617017322881069,Medium,"High negative call rate, High complaint count",Follow up on unresolved complaints
+C10106,Customer_107,2.0,0.14285714285714285,2.0,60,0.5609601292330507,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10348,Customer_349,6.0,0.3333333333333333,2.0,44,0.5608886460409349,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10528,Customer_529,4.0,0.3333333333333333,1.0,54,0.5608819001309968,Medium,High complaint count,Follow up on unresolved complaints
+C10199,Customer_200,6.0,0.0,3.0,47,0.5601511751199063,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10754,Customer_755,2.0,0.5,1.0,48,0.5599857705200413,Medium,High negative call rate,Follow up on unresolved complaints
+C10936,Customer_937,3.0,0.5,1.0,45,0.559736618612261,Medium,High negative call rate,Follow up on unresolved complaints
+C10946,Customer_947,3.0,0.14285714285714285,1.0,49,0.5594601869202346,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10372,Customer_373,8.0,0.0,2.0,52,0.5593293163477777,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10380,Customer_381,7.0,0.2,1.0,57,0.5587931399495975,Medium,High complaint count,Follow up on unresolved complaints
+C10594,Customer_595,4.0,0.16666666666666666,2.0,46,0.558235443714994,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10337,Customer_338,3.0,0.0,0.0,36,0.5580942618755591,Medium,Relatively low transaction activity,Monitor customer activity
+C10938,Customer_939,6.0,0.0,2.0,46,0.5579735390222474,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10000,Customer_1,4.0,0.6,0.0,51,0.5579156654379239,Medium,"High negative call rate, High complaint count",Customer-service follow-up
+C10682,Customer_683,2.0,0.25,1.0,46,0.557804241761158,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10894,Customer_895,2.0,0.3333333333333333,1.0,45,0.5577870858362989,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10439,Customer_440,3.0,0.0,1.0,47,0.557204580295211,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10360,Customer_361,3.0,0.4,1.0,53,0.5569631839892438,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10605,Customer_606,6.0,0.0,3.0,62,0.5558404528388655,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10652,Customer_653,3.0,0.3333333333333333,1.0,54,0.5544908319734354,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10718,Customer_719,3.0,0.0,1.0,46,0.5540261371241373,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10989,Customer_990,3.0,0.4,2.0,47,0.5531394250364247,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10180,Customer_181,2.0,0.2,2.0,49,0.5529918073606025,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10744,Customer_745,4.0,0.4,0.0,40,0.5526018828167606,Medium,High complaint count,Customer-service follow-up
+C10792,Customer_793,2.0,0.25,1.0,48,0.5525668337305396,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10088,Customer_89,2.0,0.2,1.0,63,0.5523211718371475,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10331,Customer_332,2.0,0.25,1.0,45,0.5522453419175584,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10763,Customer_764,6.0,0.0,1.0,50,0.5519894918942252,Medium,High complaint count,Follow up on unresolved complaints
+C10532,Customer_533,3.0,0.42857142857142855,2.0,56,0.5519670729990062,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10784,Customer_785,5.0,0.3333333333333333,1.0,51,0.5512779523244035,Medium,High complaint count,Follow up on unresolved complaints
+C10280,Customer_281,1.0,0.4444444444444444,0.0,53,0.5506520971933022,Medium,Customer has complaint history,Customer-service follow-up
+C10926,Customer_927,1.0,0.5,1.0,31,0.550124430429152,Medium,High negative call rate,Follow up on unresolved complaints
+C10118,Customer_119,7.0,0.4,2.0,55,0.5500052835002139,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10732,Customer_733,2.0,0.5,0.0,55,0.5496241154426188,Medium,High negative call rate,Customer-service follow-up
+C10831,Customer_832,2.0,0.5,0.0,53,0.5492033516893875,Medium,High negative call rate,Customer-service follow-up
+C10266,Customer_267,3.0,0.0,0.0,39,0.5489937042566141,Medium,Relatively low transaction activity,Monitor customer activity
+C10546,Customer_547,1.0,0.4,1.0,58,0.5484168540058099,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10771,Customer_772,2.0,0.4,0.0,37,0.5481708371791729,Medium,Relatively low transaction activity,Customer-service follow-up
+C10421,Customer_422,2.0,0.5714285714285714,1.0,46,0.5476699262880143,Medium,High negative call rate,Follow up on unresolved complaints
+C10114,Customer_115,5.0,0.6666666666666666,1.0,58,0.5473986943897469,Medium,"High negative call rate, High complaint count",Follow up on unresolved complaints
+C10982,Customer_983,1.0,0.0,1.0,50,0.547201130986347,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10458,Customer_459,4.0,0.2857142857142857,0.0,48,0.5470929269288752,Medium,High complaint count,Monitor customer activity
+C10694,Customer_695,1.0,0.16666666666666666,1.0,44,0.5470300390021604,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10768,Customer_769,2.0,0.16666666666666666,1.0,41,0.5465448580104876,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10968,Customer_969,3.0,0.3333333333333333,0.0,47,0.5459991156018135,Medium,Relatively low transaction activity,Monitor customer activity
+C10604,Customer_605,2.0,0.25,1.0,49,0.5459252380554519,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10788,Customer_789,2.0,0.0,1.0,34,0.5458294901146296,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10615,Customer_616,1.0,1.0,0.0,41,0.5450985761597816,Medium,High negative call rate,Customer-service follow-up
+C10480,Customer_481,5.0,0.25,2.0,44,0.544761680156502,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10300,Customer_301,4.0,0.2,0.0,43,0.5437194153517246,Medium,High complaint count,Monitor customer activity
+C10188,Customer_189,4.0,0.0,1.0,59,0.5432607399342674,Medium,High complaint count,Follow up on unresolved complaints
+C10495,Customer_496,3.0,0.75,0.0,54,0.5428743781493977,Medium,High negative call rate,Customer-service follow-up
+C10901,Customer_902,2.0,0.75,0.0,47,0.5426435880768969,Medium,High negative call rate,Customer-service follow-up
+C10748,Customer_749,7.0,1.0,3.0,55,0.54249178552243,Medium,"High negative call rate, Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10704,Customer_705,2.0,0.2857142857142857,1.0,50,0.5424706385026913,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10611,Customer_612,4.0,0.25,1.0,59,0.5422254474056356,Medium,High complaint count,Follow up on unresolved complaints
+C10920,Customer_921,2.0,0.14285714285714285,1.0,48,0.541382735447692,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10474,Customer_475,3.0,0.8,0.0,56,0.5409352884314942,Medium,High negative call rate,Customer-service follow-up
+C10237,Customer_238,5.0,0.14285714285714285,1.0,46,0.5402917465821869,Medium,High complaint count,Follow up on unresolved complaints
+C10367,Customer_368,3.0,0.4,2.0,68,0.5401062110403021,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10043,Customer_44,6.0,0.3333333333333333,1.0,55,0.5397966913857554,Medium,High complaint count,Follow up on unresolved complaints
+C10536,Customer_537,5.0,0.16666666666666666,1.0,51,0.5394871309068028,Medium,High complaint count,Follow up on unresolved complaints
+C10362,Customer_363,3.0,0.6666666666666666,0.0,38,0.5388616003939473,Medium,High negative call rate,Customer-service follow-up
+C10220,Customer_221,7.0,1.0,2.0,61,0.538445195223306,Medium,"High negative call rate, Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10273,Customer_274,2.0,0.3333333333333333,1.0,41,0.5382393299830232,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10807,Customer_808,5.0,0.5,0.0,47,0.5382189309433619,Medium,"High negative call rate, High complaint count",Customer-service follow-up
+C10021,Customer_22,1.0,0.2,0.0,44,0.5380193021673197,Medium,Relatively low transaction activity,Monitor customer activity
+C10321,Customer_322,5.0,0.3333333333333333,1.0,49,0.5376517455922221,Medium,High complaint count,Follow up on unresolved complaints
+C10720,Customer_721,1.0,0.16666666666666666,0.0,49,0.5372170673469753,Medium,Relatively low transaction activity,Monitor customer activity
+C10520,Customer_521,1.0,0.4,0.0,51,0.5371637827951172,Medium,Customer has complaint history,Customer-service follow-up
+C10008,Customer_9,3.0,0.0,0.0,44,0.5370420687927868,Medium,Relatively low transaction activity,Monitor customer activity
+C10974,Customer_975,3.0,0.3333333333333333,2.0,49,0.5350472918455798,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10685,Customer_686,5.0,0.14285714285714285,0.0,48,0.5349281629514071,Medium,High complaint count,Monitor customer activity
+C10547,Customer_548,6.0,0.3333333333333333,1.0,50,0.534235585157072,Medium,High complaint count,Follow up on unresolved complaints
+C10956,Customer_957,2.0,0.2,0.0,42,0.534172887338502,Medium,Relatively low transaction activity,Monitor customer activity
+C10323,Customer_324,3.0,0.2857142857142857,0.0,43,0.5341231112134044,Medium,Relatively low transaction activity,Monitor customer activity
+C10138,Customer_139,5.0,0.6,1.0,42,0.53332938963034,Medium,"High negative call rate, High complaint count",Follow up on unresolved complaints
+C10028,Customer_29,2.0,0.16666666666666666,1.0,45,0.5331358011217344,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10890,Customer_891,2.0,0.2,2.0,55,0.5322949575166447,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10541,Customer_542,1.0,0.3333333333333333,1.0,54,0.5322873565939548,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10208,Customer_209,3.0,0.16666666666666666,1.0,63,0.5321330763501338,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10793,Customer_794,4.0,0.5,1.0,73,0.5317555366210093,Medium,"High negative call rate, High complaint count",Follow up on unresolved complaints
+C10082,Customer_83,1.0,0.14285714285714285,1.0,54,0.5316820893563502,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10135,Customer_136,3.0,0.0,2.0,48,0.5308654133588337,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10539,Customer_540,3.0,0.0,1.0,54,0.5303475454055454,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10703,Customer_704,3.0,0.2,0.0,41,0.5300948774210834,Medium,Relatively low transaction activity,Monitor customer activity
+C10800,Customer_801,4.0,0.14285714285714285,2.0,44,0.5294941999249423,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10892,Customer_893,3.0,0.25,1.0,44,0.5294710673350344,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10766,Customer_767,1.0,0.2,1.0,51,0.5290422493229763,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10129,Customer_130,3.0,0.375,0.0,55,0.5290078653667387,Medium,Customer has complaint history,Monitor customer activity
+C10003,Customer_4,6.0,0.5,0.0,41,0.5271509605491427,Medium,"High negative call rate, High complaint count",Customer-service follow-up
+C10296,Customer_297,2.0,0.14285714285714285,1.0,58,0.527130041236791,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10472,Customer_473,1.0,1.0,1.0,45,0.5269809800233114,Medium,High negative call rate,Follow up on unresolved complaints
+C10960,Customer_961,5.0,0.4,0.0,45,0.5268565039925244,Medium,High complaint count,Customer-service follow-up
+C10316,Customer_317,4.0,0.0,2.0,53,0.5257520060700214,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10922,Customer_923,6.0,0.3333333333333333,3.0,59,0.5252100938233416,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10601,Customer_602,3.0,0.0,2.0,49,0.5251015406468328,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10344,Customer_345,3.0,0.25,1.0,47,0.5248702703781317,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10515,Customer_516,5.0,0.25,2.0,58,0.52376377108629,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10889,Customer_890,2.0,0.3333333333333333,0.0,39,0.5236980211005281,Medium,Relatively low transaction activity,Monitor customer activity
+C10774,Customer_775,3.0,0.2857142857142857,0.0,54,0.5224563239760759,Medium,Customer has complaint history,Monitor customer activity
+C10533,Customer_534,4.0,0.25,1.0,47,0.5205216081491565,Medium,High complaint count,Follow up on unresolved complaints
+C10964,Customer_965,4.0,0.1,0.0,59,0.5203711757967776,Medium,High complaint count,Monitor customer activity
+C10998,Customer_999,5.0,0.4,1.0,50,0.5195230851742414,Medium,High complaint count,Follow up on unresolved complaints
+C10806,Customer_807,2.0,0.3333333333333333,1.0,37,0.5193215912150536,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10676,Customer_677,3.0,0.0,2.0,43,0.5192521256124126,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10078,Customer_79,2.0,0.2857142857142857,0.0,59,0.5186582406463648,Medium,Customer has complaint history,Monitor customer activity
+C10128,Customer_129,2.0,0.3333333333333333,1.0,56,0.5185042936597788,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10405,Customer_406,4.0,0.0,2.0,46,0.5181286539507182,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10152,Customer_153,2.0,0.3333333333333333,1.0,48,0.5179940397667814,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10101,Customer_102,1.0,0.3333333333333333,0.0,42,0.517717646043925,Medium,Relatively low transaction activity,Monitor customer activity
+C10167,Customer_168,2.0,0.3333333333333333,1.0,50,0.5176023664450923,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10382,Customer_383,2.0,0.0,1.0,50,0.5174047382213561,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10400,Customer_401,1.0,0.4,0.0,44,0.5173264846787001,Medium,Relatively low transaction activity,Customer-service follow-up
+C10893,Customer_894,2.0,0.0,0.0,44,0.5164623341814573,Medium,Relatively low transaction activity,Monitor customer activity
+C10795,Customer_796,3.0,0.25,0.0,45,0.5151861148248147,Medium,Relatively low transaction activity,Monitor customer activity
+C10453,Customer_454,3.0,0.5,1.0,42,0.5145499076693597,Medium,High negative call rate,Follow up on unresolved complaints
+C10183,Customer_184,1.0,0.6,1.0,47,0.5144814208235026,Medium,High negative call rate,Follow up on unresolved complaints
+C10651,Customer_652,4.0,0.25,1.0,50,0.5140485069384869,Medium,High complaint count,Follow up on unresolved complaints
+C10451,Customer_452,2.0,0.3333333333333333,1.0,47,0.5139108031179466,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10158,Customer_159,1.0,0.3333333333333333,0.0,37,0.5139104186775642,Medium,Relatively low transaction activity,Monitor customer activity
+C10417,Customer_418,1.0,0.25,0.0,37,0.51383096144436,Medium,Relatively low transaction activity,Monitor customer activity
+C10148,Customer_149,2.0,0.4166666666666667,0.0,62,0.5127394441236676,Medium,Customer has complaint history,Customer-service follow-up
+C10735,Customer_736,7.0,0.375,2.0,51,0.512684946357358,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10875,Customer_876,6.0,0.0,0.0,43,0.51254567078163,Medium,High complaint count,Monitor customer activity
+C10548,Customer_549,5.0,0.2,1.0,55,0.5123859284810157,Medium,High complaint count,Follow up on unresolved complaints
+C10846,Customer_847,4.0,0.14285714285714285,1.0,56,0.5122164940378489,Medium,High complaint count,Follow up on unresolved complaints
+C10824,Customer_825,3.0,0.16666666666666666,1.0,48,0.5116276650496528,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10697,Customer_698,2.0,0.5714285714285714,0.0,57,0.5115315190615796,Medium,High negative call rate,Customer-service follow-up
+C10255,Customer_256,1.0,0.0,1.0,48,0.5112694986441167,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10267,Customer_268,5.0,0.25,2.0,38,0.5111881648649572,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10438,Customer_439,4.0,0.2,0.0,45,0.5111609985481672,Medium,High complaint count,Monitor customer activity
+C10578,Customer_579,4.0,0.0,2.0,60,0.5111247995668475,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10609,Customer_610,1.0,0.0,1.0,48,0.5105455208798423,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10327,Customer_328,4.0,0.42857142857142855,1.0,54,0.5104933283862757,Medium,High complaint count,Follow up on unresolved complaints
+C10557,Customer_558,3.0,0.5,0.0,56,0.5100051844508457,Medium,High negative call rate,Customer-service follow-up
+C10621,Customer_622,3.0,0.0,1.0,38,0.5095591892394857,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10465,Customer_466,4.0,0.16666666666666666,2.0,53,0.5094726179594895,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10939,Customer_940,1.0,0.2,1.0,61,0.5090746832685683,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10062,Customer_63,8.0,0.625,1.0,47,0.5089296685642899,Medium,"High negative call rate, High complaint count",Follow up on unresolved complaints
+C10184,Customer_185,2.0,0.5,0.0,37,0.5089150253555381,Medium,High negative call rate,Customer-service follow-up
+C10463,Customer_464,4.0,0.375,0.0,59,0.5086995126156975,Medium,High complaint count,Monitor customer activity
+C10140,Customer_141,2.0,0.5,0.0,44,0.5085593318650183,Medium,High negative call rate,Customer-service follow-up
+C10319,Customer_320,1.0,0.6666666666666666,1.0,55,0.5079163397478699,Medium,High negative call rate,Follow up on unresolved complaints
+C10092,Customer_93,2.0,0.5714285714285714,0.0,54,0.507365951323407,Medium,High negative call rate,Customer-service follow-up
+C10641,Customer_642,5.0,0.16666666666666666,1.0,47,0.5067843576005033,Medium,High complaint count,Follow up on unresolved complaints
+C10505,Customer_506,1.0,0.4,1.0,52,0.5063946342296338,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10097,Customer_98,2.0,0.2,1.0,46,0.5057508489850474,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10881,Customer_882,3.0,0.0,0.0,45,0.50553145924051,Medium,Relatively low transaction activity,Monitor customer activity
+C10076,Customer_77,2.0,0.42857142857142855,1.0,67,0.5053638755223459,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10413,Customer_414,1.0,0.25,0.0,41,0.5045102898490509,Medium,Relatively low transaction activity,Monitor customer activity
+C10967,Customer_968,3.0,0.14285714285714285,1.0,44,0.5044338626406586,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10425,Customer_426,1.0,0.16666666666666666,1.0,49,0.5040039940547236,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10962,Customer_963,3.0,0.6,0.0,55,0.503793971754489,Medium,High negative call rate,Customer-service follow-up
+C10211,Customer_212,1.0,0.125,1.0,57,0.5035361767631092,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10743,Customer_744,3.0,0.14285714285714285,1.0,52,0.5028499073067265,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10338,Customer_339,3.0,0.4,1.0,62,0.5021119190173885,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10103,Customer_104,2.0,0.2857142857142857,0.0,47,0.5012708502696119,Medium,Relatively low transaction activity,Monitor customer activity
+C10734,Customer_735,4.0,0.5,0.0,47,0.5009158050105239,Medium,"High negative call rate, High complaint count",Customer-service follow-up
+C10137,Customer_138,4.0,0.3333333333333333,0.0,46,0.5007839926742824,Medium,High complaint count,Monitor customer activity
+C10582,Customer_583,2.0,0.5,1.0,59,0.5005554213174336,Medium,High negative call rate,Follow up on unresolved complaints
+C10619,Customer_620,1.0,0.2727272727272727,0.0,53,0.499804404214327,Medium,Customer has complaint history,Monitor customer activity
+C10410,Customer_411,1.0,0.0,1.0,39,0.4995675658048736,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10812,Customer_813,3.0,0.2,1.0,55,0.49948912079204094,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10149,Customer_150,1.0,0.5,0.0,42,0.499280466199588,Medium,High negative call rate,Customer-service follow-up
+C10981,Customer_982,2.0,0.2727272727272727,0.0,56,0.4992059783734249,Medium,Customer has complaint history,Monitor customer activity
+C10093,Customer_94,2.0,0.4,0.0,43,0.49883074577151587,Medium,Relatively low transaction activity,Customer-service follow-up
+C10684,Customer_685,3.0,0.2,0.0,54,0.49836017493511153,Medium,Customer has complaint history,Monitor customer activity
+C10122,Customer_123,2.0,0.3333333333333333,1.0,50,0.4980948647354207,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10996,Customer_997,6.0,0.2,2.0,50,0.4974777942591517,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10653,Customer_654,2.0,0.5,0.0,49,0.49680527074935676,Medium,High negative call rate,Customer-service follow-up
+C10692,Customer_693,5.0,0.3333333333333333,1.0,49,0.4962477101671267,Medium,High complaint count,Follow up on unresolved complaints
+C10311,Customer_312,1.0,0.4444444444444444,0.0,42,0.495170141154957,Medium,Relatively low transaction activity,Customer-service follow-up
+C10423,Customer_424,4.0,0.0,2.0,45,0.4947972838521463,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10562,Customer_563,2.0,0.3333333333333333,0.0,47,0.4939916218214845,Medium,Relatively low transaction activity,Monitor customer activity
+C10225,Customer_226,3.0,0.25,0.0,49,0.4939093707696393,Medium,Relatively low transaction activity,Monitor customer activity
+C10506,Customer_507,3.0,0.0,2.0,38,0.4936436269772495,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10531,Customer_532,2.0,0.5,0.0,48,0.4906317222991535,Medium,High negative call rate,Customer-service follow-up
+C10235,Customer_236,6.0,0.25,0.0,40,0.48960913332900285,Medium,High complaint count,Monitor customer activity
+C10716,Customer_717,1.0,0.3,0.0,49,0.48927553657800477,Medium,Relatively low transaction activity,Monitor customer activity
+C10240,Customer_241,4.0,0.3333333333333333,0.0,48,0.48861682202457896,Medium,High complaint count,Monitor customer activity
+C10738,Customer_739,4.0,0.16666666666666666,0.0,54,0.4884868512328653,Medium,High complaint count,Monitor customer activity
+C10698,Customer_699,1.0,0.42857142857142855,0.0,56,0.4880781501391027,Medium,Customer has complaint history,Customer-service follow-up
+C10803,Customer_804,3.0,0.5,2.0,54,0.4880586891226709,Medium,"High negative call rate, Multiple open complaints",Follow up on unresolved complaints
+C10741,Customer_742,3.0,0.0,1.0,48,0.4872605636835696,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10207,Customer_208,1.0,0.6,0.0,49,0.48648498922228434,Medium,High negative call rate,Customer-service follow-up
+C10320,Customer_321,2.0,0.0,1.0,45,0.4862681940686823,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10970,Customer_971,4.0,0.3333333333333333,0.0,51,0.4861714848487874,Medium,High complaint count,Monitor customer activity
+C10879,Customer_880,3.0,0.2857142857142857,1.0,61,0.4858325704159764,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10584,Customer_585,7.0,0.2,2.0,54,0.4858093883466758,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10935,Customer_936,4.0,0.0,2.0,56,0.48527023071959696,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10777,Customer_778,2.0,0.6666666666666666,0.0,48,0.4842287860575226,Medium,High negative call rate,Customer-service follow-up
+C10136,Customer_137,6.0,0.25,1.0,45,0.48415623611447733,Medium,High complaint count,Follow up on unresolved complaints
+C10422,Customer_423,3.0,0.14285714285714285,0.0,46,0.4837596042084882,Medium,Relatively low transaction activity,Monitor customer activity
+C10117,Customer_118,3.0,0.0,1.0,55,0.4836449095045257,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10930,Customer_931,2.0,0.0,1.0,50,0.48305468837702104,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10084,Customer_85,2.0,0.0,1.0,47,0.48213250357677706,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10397,Customer_398,2.0,0.25,0.0,40,0.4818027085866687,Medium,Relatively low transaction activity,Monitor customer activity
+C10243,Customer_244,2.0,0.0,1.0,54,0.48155730256891077,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10502,Customer_503,4.0,0.75,1.0,64,0.4811685972095952,Medium,"High negative call rate, High complaint count",Follow up on unresolved complaints
+C10274,Customer_275,3.0,0.0,1.0,43,0.4801798232159527,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10346,Customer_347,2.0,0.6666666666666666,0.0,40,0.47986668146192896,Medium,High negative call rate,Customer-service follow-up
+C10731,Customer_732,4.0,0.5,0.0,60,0.4798158271412585,Medium,"High negative call rate, High complaint count",Customer-service follow-up
+C10840,Customer_841,4.0,0.16666666666666666,1.0,45,0.47967879764668075,Medium,High complaint count,Follow up on unresolved complaints
+C10832,Customer_833,3.0,0.5,1.0,57,0.47966258179612026,Medium,High negative call rate,Follow up on unresolved complaints
+C10904,Customer_905,6.0,0.3333333333333333,1.0,49,0.4781652285359154,Medium,High complaint count,Follow up on unresolved complaints
+C10995,Customer_996,3.0,0.3333333333333333,0.0,54,0.4781112920518524,Medium,Customer has complaint history,Monitor customer activity
+C10120,Customer_121,2.0,0.5,1.0,52,0.47775464549061564,Medium,High negative call rate,Follow up on unresolved complaints
+C10638,Customer_639,2.0,0.6666666666666666,0.0,52,0.4774804707751929,Medium,High negative call rate,Customer-service follow-up
+C10464,Customer_465,2.0,0.3333333333333333,0.0,49,0.4766450878677522,Medium,Relatively low transaction activity,Monitor customer activity
+C10457,Customer_458,4.0,0.6666666666666666,0.0,52,0.47661397802641425,Medium,"High negative call rate, High complaint count",Customer-service follow-up
+C10510,Customer_511,5.0,0.75,0.0,54,0.4762991228772805,Medium,"High negative call rate, High complaint count",Customer-service follow-up
+C10564,Customer_565,4.0,0.2222222222222222,1.0,57,0.4762576337681051,Medium,High complaint count,Follow up on unresolved complaints
+C10355,Customer_356,5.0,1.0,0.0,50,0.4760155439409946,Medium,"High negative call rate, High complaint count",Customer-service follow-up
+C10057,Customer_58,4.0,0.6666666666666666,0.0,46,0.47537014466578625,Medium,"High negative call rate, High complaint count",Customer-service follow-up
+C10100,Customer_101,1.0,0.4,0.0,47,0.47523379457134207,Medium,Relatively low transaction activity,Customer-service follow-up
+C10971,Customer_972,1.0,0.3333333333333333,0.0,38,0.4751305748443513,Medium,Relatively low transaction activity,Monitor customer activity
+C10870,Customer_871,3.0,0.1111111111111111,0.0,55,0.4749707853664142,Medium,Customer has complaint history,Monitor customer activity
+C10701,Customer_702,3.0,0.0,1.0,58,0.4748599501340295,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10986,Customer_987,2.0,0.125,1.0,54,0.47452759932030436,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10205,Customer_206,5.0,0.6666666666666666,0.0,34,0.47445568509102437,Medium,"High negative call rate, High complaint count",Customer-service follow-up
+C10352,Customer_353,2.0,0.3333333333333333,1.0,45,0.4741146768829618,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10524,Customer_525,4.0,0.5,1.0,64,0.47361026413052704,Medium,"High negative call rate, High complaint count",Follow up on unresolved complaints
+C10560,Customer_561,4.0,0.4,0.0,62,0.4734331177713534,Medium,High complaint count,Customer-service follow-up
+C10221,Customer_222,6.0,0.125,2.0,45,0.47297333616518017,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10022,Customer_23,3.0,0.14285714285714285,1.0,55,0.4721041745843844,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10261,Customer_262,2.0,0.4,0.0,45,0.47200826411375635,Medium,Relatively low transaction activity,Customer-service follow-up
+C10073,Customer_74,6.0,0.0,2.0,55,0.4713316280179307,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10841,Customer_842,1.0,0.0,1.0,52,0.4713180521927695,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10761,Customer_762,4.0,0.0,1.0,49,0.471174190359139,Medium,High complaint count,Follow up on unresolved complaints
+C10011,Customer_12,4.0,0.2,1.0,49,0.47089816942972024,Medium,High complaint count,Follow up on unresolved complaints
+C10033,Customer_34,1.0,0.3333333333333333,0.0,46,0.4705316671855908,Medium,Relatively low transaction activity,Monitor customer activity
+C10782,Customer_783,2.0,0.4,1.0,61,0.47020824907750564,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10900,Customer_901,2.0,0.3333333333333333,1.0,53,0.470179338212352,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10275,Customer_276,3.0,0.5,0.0,47,0.4693710699503798,Medium,High negative call rate,Customer-service follow-up
+C10730,Customer_731,5.0,0.0,1.0,46,0.4690026848776922,Medium,High complaint count,Follow up on unresolved complaints
+C10751,Customer_752,1.0,0.25,0.0,45,0.46893785949951566,Medium,Relatively low transaction activity,Monitor customer activity
+C10175,Customer_176,3.0,0.4,1.0,54,0.4685412822657041,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10483,Customer_484,3.0,0.5,0.0,44,0.4684523366931829,Medium,High negative call rate,Customer-service follow-up
+C10281,Customer_282,1.0,0.16666666666666666,0.0,39,0.46840840627469393,Medium,Relatively low transaction activity,Monitor customer activity
+C10860,Customer_861,3.0,0.4,0.0,59,0.46715549768373044,Medium,Customer has complaint history,Customer-service follow-up
+C10142,Customer_143,5.0,1.0,0.0,49,0.467136000478748,Medium,"High negative call rate, High complaint count",Customer-service follow-up
+C10264,Customer_265,2.0,0.75,0.0,50,0.46683403556944897,Medium,High negative call rate,Customer-service follow-up
+C10749,Customer_750,5.0,0.5,0.0,47,0.4662055014998164,Medium,"High negative call rate, High complaint count",Customer-service follow-up
+C10816,Customer_817,3.0,0.3333333333333333,0.0,31,0.4658111805557155,Medium,Relatively low transaction activity,Monitor customer activity
+C10499,Customer_500,4.0,0.5,1.0,50,0.46562831095793633,Medium,"High negative call rate, High complaint count",Follow up on unresolved complaints
+C10899,Customer_900,5.0,0.0,1.0,46,0.4652814658813699,Medium,High complaint count,Follow up on unresolved complaints
+C10391,Customer_392,3.0,0.4,2.0,60,0.4638175594769218,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10071,Customer_72,3.0,0.4,1.0,52,0.4637618138478633,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10042,Customer_43,2.0,0.8,0.0,53,0.4635741263272029,Medium,High negative call rate,Customer-service follow-up
+C10871,Customer_872,1.0,0.42857142857142855,0.0,43,0.46348521194522946,Medium,Relatively low transaction activity,Customer-service follow-up
+C10182,Customer_183,2.0,0.25,0.0,51,0.46260702801972653,Medium,Customer has complaint history,Monitor customer activity
+C10102,Customer_103,1.0,0.25,1.0,56,0.46246606249108246,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10286,Customer_287,2.0,1.0,0.0,44,0.4613090623802687,Medium,High negative call rate,Customer-service follow-up
+C10476,Customer_477,3.0,0.0,1.0,48,0.46106282987817954,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10845,Customer_846,6.0,0.3333333333333333,2.0,57,0.461019037112656,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10315,Customer_316,3.0,0.3333333333333333,0.0,52,0.46099988347150106,Medium,Customer has complaint history,Monitor customer activity
+C10993,Customer_994,4.0,1.0,2.0,48,0.46041870212363095,Medium,"High negative call rate, Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10389,Customer_390,2.0,0.5,0.0,40,0.45997012859376385,Medium,High negative call rate,Customer-service follow-up
+C10966,Customer_967,2.0,0.4,1.0,52,0.4599165238498891,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10518,Customer_519,7.0,0.25,0.0,57,0.45983867066851375,Medium,High complaint count,Monitor customer activity
+C10884,Customer_885,4.0,0.0,2.0,46,0.4594477726617565,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10590,Customer_591,0.0,0.25,0.0,39,0.4584122050992051,Medium,Relatively low transaction activity,Monitor customer activity
+C10972,Customer_973,5.0,0.2857142857142857,2.0,66,0.45817169590082446,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10606,Customer_607,2.0,0.16666666666666666,0.0,50,0.45800370996691975,Medium,Customer has complaint history,Monitor customer activity
+C10074,Customer_75,2.0,0.4,0.0,50,0.4578862127182587,Medium,Customer has complaint history,Customer-service follow-up
+C10312,Customer_313,2.0,0.0,0.0,37,0.45734138445339184,Medium,Relatively low transaction activity,Monitor customer activity
+C10670,Customer_671,3.0,0.0,0.0,49,0.45712228810281663,Medium,Relatively low transaction activity,Monitor customer activity
+C10945,Customer_946,3.0,0.4,0.0,53,0.45684891574470926,Medium,Customer has complaint history,Customer-service follow-up
+C10759,Customer_760,3.0,0.3333333333333333,1.0,45,0.4568204798817977,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10244,Customer_245,3.0,0.0,0.0,52,0.45677479269980953,Medium,Customer has complaint history,Monitor customer activity
+C10958,Customer_959,4.0,0.16666666666666666,1.0,72,0.45663226170830434,Medium,High complaint count,Follow up on unresolved complaints
+C10632,Customer_633,3.0,0.16666666666666666,0.0,56,0.45638916496408827,Medium,Customer has complaint history,Monitor customer activity
+C10902,Customer_903,4.0,0.2857142857142857,1.0,53,0.4561493748585276,Medium,High complaint count,Follow up on unresolved complaints
+C10863,Customer_864,3.0,0.0,1.0,55,0.45611228066316456,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10285,Customer_286,4.0,0.0,1.0,42,0.4558791442512204,Medium,High complaint count,Follow up on unresolved complaints
+C10940,Customer_941,3.0,0.0,0.0,51,0.45559939765531743,Medium,Customer has complaint history,Monitor customer activity
+C10262,Customer_263,1.0,0.5,0.0,49,0.45555794941539385,Medium,High negative call rate,Customer-service follow-up
+C10979,Customer_980,1.0,0.2,0.0,42,0.45547717654559666,Medium,Relatively low transaction activity,Monitor customer activity
+C10104,Customer_105,7.0,0.25,1.0,59,0.45500830124277064,Medium,High complaint count,Follow up on unresolved complaints
+C10217,Customer_218,2.0,0.16666666666666666,0.0,45,0.45429103742960214,Medium,Relatively low transaction activity,Monitor customer activity
+C10801,Customer_802,5.0,0.25,0.0,47,0.4539571944771157,Medium,High complaint count,Monitor customer activity
+C10579,Customer_580,3.0,0.3333333333333333,2.0,54,0.45369719906384065,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10707,Customer_708,3.0,0.0,1.0,51,0.4536669474312092,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10232,Customer_233,2.0,0.42857142857142855,0.0,54,0.4534498512227615,Medium,Customer has complaint history,Customer-service follow-up
+C10218,Customer_219,8.0,0.125,1.0,57,0.45328665383752154,Medium,High complaint count,Follow up on unresolved complaints
+C10658,Customer_659,2.0,0.0,1.0,43,0.45294209245036166,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10201,Customer_202,2.0,0.25,0.0,65,0.4528609777068253,Medium,Customer has complaint history,Monitor customer activity
+C10607,Customer_608,3.0,0.14285714285714285,0.0,48,0.4525363649729792,Medium,Relatively low transaction activity,Monitor customer activity
+C10497,Customer_498,3.0,0.4,0.0,55,0.45222417155693045,Medium,Customer has complaint history,Customer-service follow-up
+C10198,Customer_199,3.0,0.0,0.0,49,0.4522217034088656,Medium,Relatively low transaction activity,Monitor customer activity
+C10016,Customer_17,1.0,0.3333333333333333,0.0,59,0.4516225261872862,Medium,Customer has complaint history,Monitor customer activity
+C10683,Customer_684,6.0,0.0,2.0,44,0.4514874377523267,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10212,Customer_213,5.0,0.16666666666666666,1.0,48,0.45115132049971535,Medium,High complaint count,Follow up on unresolved complaints
+C10258,Customer_259,3.0,0.18181818181818182,2.0,70,0.4508509581882507,Medium,Multiple open complaints,Follow up on unresolved complaints
+C10133,Customer_134,3.0,1.0,0.0,49,0.4505113036373791,Medium,High negative call rate,Customer-service follow-up
+C10891,Customer_892,3.0,0.6,0.0,60,0.44980363545438545,Medium,High negative call rate,Customer-service follow-up
+C10603,Customer_604,1.0,0.16666666666666666,0.0,47,0.4497512368177362,Medium,Relatively low transaction activity,Monitor customer activity
+C10501,Customer_502,2.0,0.125,0.0,59,0.44945372056060867,Medium,Customer has complaint history,Monitor customer activity
+C10139,Customer_140,6.0,0.25,0.0,46,0.44933729724011545,Medium,High complaint count,Monitor customer activity
+C10454,Customer_455,1.0,0.14285714285714285,0.0,48,0.4492683619806674,Medium,Relatively low transaction activity,Monitor customer activity
+C10477,Customer_478,2.0,0.25,0.0,46,0.44896070944967165,Medium,Relatively low transaction activity,Monitor customer activity
+C10090,Customer_91,1.0,0.2222222222222222,0.0,41,0.4483061327662512,Medium,Relatively low transaction activity,Monitor customer activity
+C10193,Customer_194,3.0,0.0,0.0,46,0.44826121529708907,Medium,Relatively low transaction activity,Monitor customer activity
+C10828,Customer_829,1.0,0.0,0.0,37,0.4478819071794076,Medium,Relatively low transaction activity,Monitor customer activity
+C10373,Customer_374,7.0,0.3333333333333333,1.0,45,0.44772033961505925,Medium,High complaint count,Follow up on unresolved complaints
+C10259,Customer_260,5.0,0.1,1.0,57,0.4474050376502883,Medium,High complaint count,Follow up on unresolved complaints
+C10063,Customer_64,2.0,0.25,0.0,37,0.4473977252793375,Medium,Relatively low transaction activity,Monitor customer activity
+C10035,Customer_36,2.0,0.75,0.0,51,0.44679397810896815,Medium,High negative call rate,Customer-service follow-up
+C10661,Customer_662,5.0,0.3333333333333333,0.0,56,0.44646703142771726,Medium,High complaint count,Monitor customer activity
+C10037,Customer_38,1.0,0.25,0.0,52,0.4463525172114767,Medium,Customer has complaint history,Monitor customer activity
+C10997,Customer_998,3.0,0.1111111111111111,1.0,55,0.4455523488269574,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10467,Customer_468,3.0,0.0,1.0,57,0.44521055354485395,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10119,Customer_120,4.0,0.4,0.0,44,0.4451719093870472,Medium,High complaint count,Customer-service follow-up
+C10257,Customer_258,2.0,0.0,1.0,45,0.4430460263683113,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10197,Customer_198,2.0,0.0,0.0,42,0.44297299873035423,Medium,Relatively low transaction activity,Monitor customer activity
+C10349,Customer_350,2.0,0.375,0.0,47,0.44288796980293665,Medium,Relatively low transaction activity,Monitor customer activity
+C10189,Customer_190,2.0,0.5,0.0,32,0.4427804108841474,Medium,High negative call rate,Customer-service follow-up
+C10635,Customer_636,5.0,0.3333333333333333,1.0,40,0.44268066664803984,Medium,High complaint count,Follow up on unresolved complaints
+C10675,Customer_676,2.0,0.0,1.0,48,0.4423428174772279,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10550,Customer_551,3.0,0.75,1.0,43,0.4422729400880813,Medium,High negative call rate,Follow up on unresolved complaints
+C10688,Customer_689,4.0,0.0,0.0,41,0.442006972673341,Medium,High complaint count,Monitor customer activity
+C10830,Customer_831,3.0,0.2,0.0,54,0.44187361309066736,Medium,Customer has complaint history,Monitor customer activity
+C10851,Customer_852,3.0,0.3333333333333333,0.0,50,0.44172532829723454,Medium,Customer has complaint history,Monitor customer activity
+C10325,Customer_326,3.0,0.0,0.0,41,0.4406310817020211,Medium,Relatively low transaction activity,Monitor customer activity
+C10919,Customer_920,2.0,0.0,1.0,50,0.4398916695740709,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10778,Customer_779,3.0,0.14285714285714285,0.0,34,0.4398416368155388,Medium,Relatively low transaction activity,Monitor customer activity
+C10334,Customer_335,2.0,0.25,0.0,50,0.43924985170490627,Medium,Customer has complaint history,Monitor customer activity
+C10937,Customer_938,2.0,0.5,1.0,48,0.4382406728002935,Medium,High negative call rate,Follow up on unresolved complaints
+C10172,Customer_173,3.0,0.16666666666666666,0.0,52,0.43764027128055255,Medium,Customer has complaint history,Monitor customer activity
+C10395,Customer_396,1.0,0.2,0.0,56,0.43748307079707466,Medium,Customer has complaint history,Monitor customer activity
+C10202,Customer_203,4.0,0.4,0.0,48,0.43709971523877994,Medium,High complaint count,Customer-service follow-up
+C10948,Customer_949,3.0,0.3333333333333333,1.0,54,0.4370635735863512,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10596,Customer_597,1.0,0.0,0.0,53,0.4355311888291066,Medium,Customer has complaint history,Monitor customer activity
+C10623,Customer_624,4.0,0.0,1.0,58,0.43435126038797534,Medium,High complaint count,Follow up on unresolved complaints
+C10980,Customer_981,3.0,0.42857142857142855,0.0,52,0.4336765061484192,Medium,Customer has complaint history,Customer-service follow-up
+C10383,Customer_384,6.0,0.0,1.0,39,0.4335462239670981,Medium,High complaint count,Follow up on unresolved complaints
+C10556,Customer_557,2.0,0.3333333333333333,0.0,44,0.4334350937523828,Medium,Relatively low transaction activity,Monitor customer activity
+C10835,Customer_836,4.0,0.0,1.0,61,0.43315215282306,Medium,High complaint count,Follow up on unresolved complaints
+C10647,Customer_648,2.0,0.0,0.0,44,0.4331462323367737,Medium,Relatively low transaction activity,Monitor customer activity
+C10629,Customer_630,1.0,0.0,0.0,38,0.4331020259189349,Medium,Relatively low transaction activity,Monitor customer activity
+C10723,Customer_724,2.0,0.3333333333333333,0.0,43,0.4327548883135235,Medium,Relatively low transaction activity,Monitor customer activity
+C10757,Customer_758,3.0,0.16666666666666666,1.0,50,0.4327384761858025,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10552,Customer_553,5.0,0.25,0.0,52,0.43206355291043963,Medium,High complaint count,Monitor customer activity
+C10663,Customer_664,1.0,0.16666666666666666,1.0,51,0.4318734139564715,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10246,Customer_247,2.0,0.14285714285714285,0.0,46,0.43186529958035874,Medium,Relatively low transaction activity,Monitor customer activity
+C10406,Customer_407,1.0,0.3333333333333333,0.0,45,0.4317133337586057,Medium,Relatively low transaction activity,Monitor customer activity
+C10157,Customer_158,3.0,0.0,0.0,51,0.43149727819837014,Medium,Customer has complaint history,Monitor customer activity
+C10279,Customer_280,3.0,1.0,0.0,44,0.4304761596183192,Medium,High negative call rate,Customer-service follow-up
+C10226,Customer_227,1.0,0.3333333333333333,0.0,54,0.43031879599394873,Medium,Customer has complaint history,Monitor customer activity
+C10342,Customer_343,1.0,0.0,1.0,68,0.43029311352674604,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10002,Customer_3,3.0,0.0,1.0,42,0.4301551407571849,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10602,Customer_603,5.0,0.16666666666666666,2.0,46,0.4300341997653868,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10769,Customer_770,1.0,0.0,1.0,50,0.4299963723004843,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10854,Customer_855,3.0,0.2,0.0,57,0.429966532679567,Medium,Customer has complaint history,Monitor customer activity
+C10733,Customer_734,2.0,0.3333333333333333,0.0,45,0.4298681066242219,Medium,Relatively low transaction activity,Monitor customer activity
+C10144,Customer_145,3.0,0.0,0.0,46,0.4292442961846157,Medium,Relatively low transaction activity,Monitor customer activity
+C10912,Customer_913,3.0,0.6,0.0,58,0.42898214557970016,Medium,High negative call rate,Customer-service follow-up
+C10932,Customer_933,5.0,0.0,1.0,44,0.4286434781041568,Medium,High complaint count,Follow up on unresolved complaints
+C10876,Customer_877,5.0,0.5,2.0,46,0.4283037484544668,Medium,"High negative call rate, Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10587,Customer_588,0.0,0.5,0.0,49,0.4281661893550861,Medium,High negative call rate,Customer-service follow-up
+C10170,Customer_171,2.0,0.0,0.0,47,0.42816562978588824,Medium,Relatively low transaction activity,Monitor customer activity
+C10630,Customer_631,3.0,0.0,1.0,44,0.427959636202749,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10284,Customer_285,4.0,0.0,1.0,56,0.42760026547042224,Medium,High complaint count,Follow up on unresolved complaints
+C10740,Customer_741,1.0,0.0,1.0,44,0.42740019252932765,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10947,Customer_948,3.0,0.3333333333333333,0.0,69,0.42723773789099506,Medium,Customer has complaint history,Monitor customer activity
+C10322,Customer_323,1.0,0.0,0.0,43,0.4265006857056012,Medium,Relatively low transaction activity,Monitor customer activity
+C10826,Customer_827,5.0,0.0,0.0,40,0.4255470753182719,Medium,High complaint count,Monitor customer activity
+C10366,Customer_367,5.0,0.5,0.0,54,0.42523742531277925,Medium,"High negative call rate, High complaint count",Customer-service follow-up
+C10516,Customer_517,2.0,0.0,1.0,51,0.4249493528815384,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10210,Customer_211,1.0,0.0,0.0,46,0.42479925055945345,Medium,Relatively low transaction activity,Monitor customer activity
+C10833,Customer_834,4.0,0.0,1.0,51,0.42469163930056264,Medium,High complaint count,Follow up on unresolved complaints
+C10519,Customer_520,2.0,0.2,1.0,49,0.42421027708525133,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10181,Customer_182,2.0,0.2857142857142857,0.0,48,0.4241273968927165,Medium,Relatively low transaction activity,Monitor customer activity
+C10365,Customer_366,3.0,0.16666666666666666,0.0,40,0.4240088746454185,Medium,Relatively low transaction activity,Monitor customer activity
+C10187,Customer_188,2.0,0.14285714285714285,0.0,42,0.423788790847763,Medium,Relatively low transaction activity,Monitor customer activity
+C10622,Customer_623,3.0,0.2,0.0,57,0.4237240364248743,Medium,Customer has complaint history,Monitor customer activity
+C10484,Customer_485,1.0,0.3333333333333333,0.0,42,0.4234471835117517,Medium,Relatively low transaction activity,Monitor customer activity
+C10563,Customer_564,5.0,0.0,2.0,40,0.42302844530268296,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10485,Customer_486,2.0,0.375,1.0,49,0.4228882455918848,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10219,Customer_220,4.0,0.2857142857142857,0.0,53,0.422028840345124,Medium,High complaint count,Monitor customer activity
+C10044,Customer_45,4.0,0.0,0.0,35,0.42176187239134044,Medium,High complaint count,Monitor customer activity
+C10324,Customer_325,3.0,0.0,1.0,52,0.4209869481657734,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10825,Customer_826,2.0,0.16666666666666666,0.0,56,0.42023439652678535,Medium,Customer has complaint history,Monitor customer activity
+C10169,Customer_170,2.0,0.4,0.0,41,0.41983764637986015,Medium,Relatively low transaction activity,Customer-service follow-up
+C10645,Customer_646,6.0,0.25,0.0,50,0.41925848615549327,Medium,High complaint count,Monitor customer activity
+C10154,Customer_155,4.0,0.3333333333333333,0.0,56,0.41834146059657473,Medium,High complaint count,Monitor customer activity
+C10009,Customer_10,4.0,0.3333333333333333,1.0,56,0.418170648144294,Medium,High complaint count,Follow up on unresolved complaints
+C10055,Customer_56,1.0,0.42857142857142855,0.0,46,0.4173528452232302,Medium,Relatively low transaction activity,Customer-service follow-up
+C10842,Customer_843,3.0,0.2857142857142857,0.0,48,0.41681594042451087,Medium,Relatively low transaction activity,Monitor customer activity
+C10817,Customer_818,1.0,0.0,1.0,50,0.4166721748540006,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10853,Customer_854,2.0,0.0,1.0,50,0.4166173447613173,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10272,Customer_273,4.0,0.0,1.0,62,0.4165963852971158,Medium,High complaint count,Follow up on unresolved complaints
+C10408,Customer_409,0.0,0.5,0.0,49,0.4161280147689386,Medium,High negative call rate,Customer-service follow-up
+C10809,Customer_810,1.0,0.4,0.0,50,0.4157989397706164,Medium,Customer has complaint history,Customer-service follow-up
+C10164,Customer_165,3.0,0.0,1.0,55,0.4151606797010783,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10356,Customer_357,3.0,1.0,2.0,61,0.414448972267307,Medium,"High negative call rate, Multiple open complaints",Follow up on unresolved complaints
+C10370,Customer_371,2.0,0.0,1.0,61,0.4138465033224825,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10706,Customer_707,2.0,0.0,1.0,46,0.413378751795482,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10435,Customer_436,6.0,0.0,2.0,51,0.4131038614205693,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10427,Customer_428,2.0,0.0,1.0,56,0.41300263970804896,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10888,Customer_889,3.0,0.0,0.0,53,0.41153839527978703,Medium,Customer has complaint history,Monitor customer activity
+C10514,Customer_515,2.0,0.3333333333333333,0.0,47,0.4114939567430144,Medium,Relatively low transaction activity,Monitor customer activity
+C10999,Customer_1000,2.0,0.4,1.0,58,0.41108201680451095,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10521,Customer_522,5.0,0.0,3.0,59,0.409675532418385,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10271,Customer_272,1.0,0.25,0.0,54,0.4095063557603589,Medium,Customer has complaint history,Monitor customer activity
+C10153,Customer_154,1.0,0.3333333333333333,0.0,46,0.40908345195124596,Medium,Relatively low transaction activity,Monitor customer activity
+C10186,Customer_187,5.0,0.42857142857142855,0.0,44,0.40908225672250276,Medium,High complaint count,Customer-service follow-up
+C10799,Customer_800,5.0,0.2,2.0,51,0.40896817095891896,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10559,Customer_560,1.0,0.75,1.0,61,0.4079867906090733,Medium,High negative call rate,Follow up on unresolved complaints
+C10445,Customer_446,2.0,0.25,0.0,55,0.40782025627141366,Medium,Customer has complaint history,Monitor customer activity
+C10885,Customer_886,4.0,0.16666666666666666,0.0,59,0.4071435541251448,Medium,High complaint count,Monitor customer activity
+C10276,Customer_277,4.0,0.25,1.0,52,0.406448184944021,Medium,High complaint count,Follow up on unresolved complaints
+C10177,Customer_178,3.0,0.125,0.0,48,0.4060440644626649,Medium,Relatively low transaction activity,Monitor customer activity
+C10222,Customer_223,3.0,0.14285714285714285,0.0,43,0.40575417380936285,Medium,Relatively low transaction activity,Monitor customer activity
+C10911,Customer_912,4.0,0.0,2.0,51,0.40572607303150054,Medium,"Multiple open complaints, High complaint count",Follow up on unresolved complaints
+C10381,Customer_382,3.0,0.4,0.0,58,0.4054112538164567,Medium,Customer has complaint history,Customer-service follow-up
+C10493,Customer_494,4.0,0.5,0.0,43,0.40515512895235817,Medium,"High negative call rate, High complaint count",Customer-service follow-up
+C10343,Customer_344,3.0,0.25,1.0,44,0.40490000552020705,Medium,Relatively low transaction activity,Follow up on unresolved complaints
+C10079,Customer_80,1.0,0.16666666666666666,0.0,53,0.40468961488135813,Medium,Customer has complaint history,Monitor customer activity
+C10983,Customer_984,2.0,0.14285714285714285,0.0,62,0.4037455659986505,Medium,Customer has complaint history,Monitor customer activity
+C10790,Customer_791,3.0,0.0,1.0,64,0.40373697555333654,Medium,Customer has complaint history,Follow up on unresolved complaints
+C10469,Customer_470,4.0,0.25,0.0,36,0.40310276421719843,Medium,High complaint count,Monitor customer activity
+C10785,Customer_786,2.0,0.25,0.0,52,0.4024299839533453,Medium,Customer has complaint history,Monitor customer activity
+C10252,Customer_253,2.0,0.5,0.0,52,0.4017579236580318,Medium,High negative call rate,Customer-service follow-up
+C10195,Customer_196,5.0,0.2,1.0,51,0.4012992125211564,Medium,High complaint count,Follow up on unresolved complaints
+C10509,Customer_510,3.0,1.0,0.0,35,0.40073902651669674,Medium,High negative call rate,Customer-service follow-up
+C10575,Customer_576,2.0,0.5,0.0,56,0.4006754119484603,Medium,High negative call rate,Customer-service follow-up
+C10431,Customer_432,3.0,0.0,0.0,45,0.40049319503114666,Medium,Relatively low transaction activity,Monitor customer activity
+C10598,Customer_599,2.0,0.5,0.0,62,0.3996220278717071,Low,High negative call rate,Continue regular customer engagement
+C10880,Customer_881,2.0,0.25,0.0,57,0.3993961230808148,Low,Customer has complaint history,Continue regular customer engagement
+C10616,Customer_617,3.0,0.14285714285714285,0.0,52,0.3989407750585176,Low,Customer has complaint history,Continue regular customer engagement
+C10729,Customer_730,5.0,0.0,1.0,57,0.3987517052836611,Low,High complaint count,Continue regular customer engagement
+C10059,Customer_60,2.0,0.4,0.0,47,0.39866317233729354,Low,Relatively low transaction activity,Continue regular customer engagement
+C10166,Customer_167,2.0,0.4,1.0,51,0.3985615898096684,Low,Customer has complaint history,Continue regular customer engagement
+C10386,Customer_387,3.0,0.3333333333333333,1.0,58,0.3983073695840141,Low,Customer has complaint history,Continue regular customer engagement
+C10161,Customer_162,4.0,0.25,1.0,53,0.39808009030556896,Low,High complaint count,Continue regular customer engagement
+C10804,Customer_805,1.0,0.125,0.0,48,0.398031557074419,Low,Relatively low transaction activity,Continue regular customer engagement
+C10511,Customer_512,4.0,0.3333333333333333,0.0,49,0.3974419165746368,Low,High complaint count,Continue regular customer engagement
+C10868,Customer_869,4.0,0.75,0.0,55,0.397398371012226,Low,"High negative call rate, High complaint count",Continue regular customer engagement
+C10834,Customer_835,1.0,0.0,0.0,48,0.39726487552045925,Low,Relatively low transaction activity,Continue regular customer engagement
+C10586,Customer_587,1.0,0.14285714285714285,0.0,46,0.39721671658711283,Low,Relatively low transaction activity,Continue regular customer engagement
+C10544,Customer_545,3.0,0.2,0.0,44,0.39629617415453516,Low,Relatively low transaction activity,Continue regular customer engagement
+C10917,Customer_918,1.0,0.6666666666666666,0.0,42,0.39528160864166373,Low,High negative call rate,Continue regular customer engagement
+C10126,Customer_127,2.0,0.3333333333333333,0.0,37,0.3947633597433799,Low,Relatively low transaction activity,Continue regular customer engagement
+C10045,Customer_46,7.0,0.0,1.0,54,0.39428455280772695,Low,High complaint count,Continue regular customer engagement
+C10954,Customer_955,3.0,0.16666666666666666,0.0,48,0.3942468422323443,Low,Relatively low transaction activity,Continue regular customer engagement
+C10865,Customer_866,2.0,0.2,0.0,47,0.3937046108110266,Low,Relatively low transaction activity,Continue regular customer engagement
+C10294,Customer_295,1.0,0.3333333333333333,0.0,42,0.3931615861722407,Low,Relatively low transaction activity,Continue regular customer engagement
+C10478,Customer_479,1.0,0.14285714285714285,0.0,42,0.3920151420548119,Low,Relatively low transaction activity,Continue regular customer engagement
+C10112,Customer_113,4.0,0.16666666666666666,0.0,44,0.3915909035001587,Low,High complaint count,Continue regular customer engagement
+C10617,Customer_618,1.0,0.0,1.0,61,0.3915418737610044,Low,Customer has complaint history,Continue regular customer engagement
+C10424,Customer_425,1.0,0.0,1.0,46,0.39117219468673253,Low,Relatively low transaction activity,Continue regular customer engagement
+C10882,Customer_883,3.0,0.0,1.0,51,0.3911512923645652,Low,Customer has complaint history,Continue regular customer engagement
+C10390,Customer_391,1.0,0.25,0.0,38,0.3910817612755179,Low,Relatively low transaction activity,Continue regular customer engagement
+C10710,Customer_711,3.0,0.25,0.0,52,0.39042702502909543,Low,Customer has complaint history,Continue regular customer engagement
+C10836,Customer_837,0.0,0.42857142857142855,0.0,46,0.38988537258696815,Low,Relatively low transaction activity,Continue regular customer engagement
+C10666,Customer_667,2.0,0.0,1.0,48,0.3895420043823641,Low,Relatively low transaction activity,Continue regular customer engagement
+C10378,Customer_379,2.0,0.3333333333333333,0.0,48,0.3892166681599219,Low,Relatively low transaction activity,Continue regular customer engagement
+C10758,Customer_759,2.0,0.0,1.0,59,0.38886418202526224,Low,Customer has complaint history,Continue regular customer engagement
+C10591,Customer_592,3.0,0.0,0.0,53,0.3887133555083388,Low,Customer has complaint history,Continue regular customer engagement
+C10470,Customer_471,4.0,0.0,0.0,45,0.38869995322432155,Low,High complaint count,Continue regular customer engagement
+C10036,Customer_37,4.0,0.2,0.0,48,0.38769323168672826,Low,High complaint count,Continue regular customer engagement
+C10764,Customer_765,3.0,0.0,0.0,50,0.3872689282415665,Low,Customer has complaint history,Continue regular customer engagement
+C10185,Customer_186,2.0,0.16666666666666666,1.0,57,0.38704676452936965,Low,Customer has complaint history,Continue regular customer engagement
+C10363,Customer_364,2.0,0.0,0.0,46,0.386957267193107,Low,Relatively low transaction activity,Continue regular customer engagement
+C10473,Customer_474,5.0,0.0,2.0,55,0.3869199029798052,Low,"Multiple open complaints, High complaint count",Continue regular customer engagement
+C10613,Customer_614,1.0,0.0,0.0,52,0.3865396512974458,Low,Customer has complaint history,Continue regular customer engagement
+C10238,Customer_239,6.0,0.16666666666666666,1.0,60,0.38522332369326023,Low,High complaint count,Continue regular customer engagement
+C10722,Customer_723,4.0,0.4,0.0,63,0.38409332568188037,Low,High complaint count,Continue regular customer engagement
+C10214,Customer_215,1.0,0.3333333333333333,0.0,53,0.38405065641788916,Low,Customer has complaint history,Continue regular customer engagement
+C10953,Customer_954,2.0,0.0,0.0,66,0.38400406704600376,Low,Customer has complaint history,Continue regular customer engagement
+C10565,Customer_566,2.0,0.14285714285714285,0.0,62,0.3839117689049201,Low,Customer has complaint history,Continue regular customer engagement
+C10333,Customer_334,4.0,0.25,0.0,51,0.38380409768740886,Low,High complaint count,Continue regular customer engagement
+C10065,Customer_66,2.0,0.42857142857142855,0.0,60,0.3823833529570325,Low,Customer has complaint history,Continue regular customer engagement
+C10031,Customer_32,1.0,0.75,0.0,60,0.3822680540658362,Low,High negative call rate,Continue regular customer engagement
+C10032,Customer_33,1.0,0.2,0.0,43,0.3811586175400395,Low,Relatively low transaction activity,Continue regular customer engagement
+C10288,Customer_289,3.0,0.16666666666666666,0.0,45,0.3808443575841953,Low,Relatively low transaction activity,Continue regular customer engagement
+C10052,Customer_53,1.0,0.0,0.0,52,0.3801569922085557,Low,Customer has complaint history,Continue regular customer engagement
+C10224,Customer_225,3.0,0.5,0.0,60,0.3798340995100232,Low,High negative call rate,Continue regular customer engagement
+C10589,Customer_590,1.0,0.0,0.0,59,0.3796485932781981,Low,Customer has complaint history,Continue regular customer engagement
+C10909,Customer_910,2.0,0.0,1.0,49,0.37948507664251163,Low,Relatively low transaction activity,Continue regular customer engagement
+C10665,Customer_666,3.0,0.0,0.0,60,0.37924562230873016,Low,Customer has complaint history,Continue regular customer engagement
+C10245,Customer_246,4.0,0.0,1.0,64,0.37840730496547137,Low,High complaint count,Continue regular customer engagement
+C10991,Customer_992,2.0,0.3333333333333333,0.0,54,0.3782985798162947,Low,Customer has complaint history,Continue regular customer engagement
+C10345,Customer_346,3.0,0.25,0.0,46,0.37800427450964524,Low,Relatively low transaction activity,Continue regular customer engagement
+C10794,Customer_795,4.0,0.0,1.0,45,0.377931087411482,Low,High complaint count,Continue regular customer engagement
+C10026,Customer_27,2.0,0.3333333333333333,0.0,60,0.3773554848382669,Low,Customer has complaint history,Continue regular customer engagement
+C10714,Customer_715,4.0,0.0,0.0,58,0.37700508923343884,Low,High complaint count,Continue regular customer engagement
+C10691,Customer_692,6.0,0.2,1.0,47,0.3768625695643812,Low,High complaint count,Continue regular customer engagement
+C10770,Customer_771,3.0,0.25,0.0,49,0.3759231696393328,Low,Relatively low transaction activity,Continue regular customer engagement
+C10488,Customer_489,2.0,0.25,0.0,45,0.3749493973882413,Low,Relatively low transaction activity,Continue regular customer engagement
+C10633,Customer_634,0.0,0.0,0.0,48,0.3749240692257966,Low,Relatively low transaction activity,Continue regular customer engagement
+C10196,Customer_197,2.0,0.25,0.0,47,0.3741845102932294,Low,Relatively low transaction activity,Continue regular customer engagement
+C10301,Customer_302,2.0,0.0,0.0,60,0.37409262169745344,Low,Customer has complaint history,Continue regular customer engagement
+C10924,Customer_925,3.0,0.3333333333333333,1.0,61,0.3739138306017932,Low,Customer has complaint history,Continue regular customer engagement
+C10567,Customer_568,1.0,0.2,0.0,60,0.3735892259942455,Low,Customer has complaint history,Continue regular customer engagement
+C10131,Customer_132,3.0,0.6666666666666666,0.0,57,0.37349610571190356,Low,High negative call rate,Continue regular customer engagement
+C10713,Customer_714,3.0,0.3333333333333333,0.0,37,0.3734678867630891,Low,Relatively low transaction activity,Continue regular customer engagement
+C10747,Customer_748,3.0,0.5,1.0,47,0.3731420160177654,Low,High negative call rate,Continue regular customer engagement
+C10913,Customer_914,2.0,0.0,1.0,51,0.37121855512127083,Low,Customer has complaint history,Continue regular customer engagement
+C10147,Customer_148,1.0,0.4,0.0,41,0.3709896619666213,Low,Relatively low transaction activity,Continue regular customer engagement
+C10783,Customer_784,1.0,0.0,0.0,44,0.37021361929781743,Low,Relatively low transaction activity,Continue regular customer engagement
+C10568,Customer_569,1.0,0.14285714285714285,0.0,42,0.36948587888201595,Low,Relatively low transaction activity,Continue regular customer engagement
+C10227,Customer_228,2.0,0.3333333333333333,0.0,54,0.3694827881694317,Low,Customer has complaint history,Continue regular customer engagement
+C10091,Customer_92,1.0,0.0,0.0,46,0.3694053871433646,Low,Relatively low transaction activity,Continue regular customer engagement
+C10204,Customer_205,3.0,0.25,2.0,52,0.36885075052217037,Low,Multiple open complaints,Continue regular customer engagement
+C10898,Customer_899,3.0,0.0,0.0,62,0.368733356278369,Low,Customer has complaint history,Continue regular customer engagement
+C10677,Customer_678,3.0,0.0,1.0,57,0.36839433469267446,Low,Customer has complaint history,Continue regular customer engagement
+C10085,Customer_86,2.0,0.0,0.0,44,0.367844533738963,Low,Relatively low transaction activity,Continue regular customer engagement
+C10577,Customer_578,3.0,0.0,0.0,46,0.3670870430532659,Low,Relatively low transaction activity,Continue regular customer engagement
+C10527,Customer_528,3.0,0.3333333333333333,1.0,60,0.3667538952707856,Low,Customer has complaint history,Continue regular customer engagement
+C10215,Customer_216,6.0,0.0,1.0,65,0.3665922397363968,Low,High complaint count,Continue regular customer engagement
+C10141,Customer_142,1.0,0.25,0.0,47,0.3662403324906172,Low,Relatively low transaction activity,Continue regular customer engagement
+C10529,Customer_530,3.0,0.4,1.0,63,0.365887054181291,Low,Customer has complaint history,Continue regular customer engagement
+C10130,Customer_131,2.0,0.5,0.0,46,0.3657968215939533,Low,High negative call rate,Continue regular customer engagement
+C10302,Customer_303,3.0,0.0,0.0,47,0.3657774269900322,Low,Relatively low transaction activity,Continue regular customer engagement
+C10087,Customer_88,2.0,0.25,0.0,49,0.3648352045917549,Low,Relatively low transaction activity,Continue regular customer engagement
+C10643,Customer_644,4.0,0.0,0.0,43,0.36478544218508896,Low,High complaint count,Continue regular customer engagement
+C10656,Customer_657,1.0,0.8,0.0,68,0.36449190083951316,Low,High negative call rate,Continue regular customer engagement
+C10351,Customer_352,2.0,0.4,0.0,40,0.3643690196721661,Low,Relatively low transaction activity,Continue regular customer engagement
+C10618,Customer_619,3.0,0.0,1.0,54,0.3631614886779431,Low,Customer has complaint history,Continue regular customer engagement
+C10765,Customer_766,2.0,0.16666666666666666,0.0,52,0.36284779808951423,Low,Customer has complaint history,Continue regular customer engagement
+C10921,Customer_922,1.0,0.0,0.0,47,0.3627363425259681,Low,Relatively low transaction activity,Continue regular customer engagement
+C10491,Customer_492,4.0,0.0,2.0,50,0.3618264884049892,Low,"Multiple open complaints, High complaint count",Continue regular customer engagement
+C10402,Customer_403,2.0,0.0,0.0,54,0.3616372400894476,Low,Customer has complaint history,Continue regular customer engagement
+C10877,Customer_878,0.0,0.42857142857142855,0.0,60,0.3613208022741706,Low,Customer has negative call interactions,Continue regular customer engagement
+C10570,Customer_571,7.0,0.0,1.0,54,0.36115280821209056,Low,High complaint count,Continue regular customer engagement
+C10236,Customer_237,5.0,0.2,1.0,47,0.360030986094523,Low,High complaint count,Continue regular customer engagement
+C10231,Customer_232,2.0,0.14285714285714285,0.0,58,0.35938494554524325,Low,Customer has complaint history,Continue regular customer engagement
+C10387,Customer_388,2.0,0.0,0.0,54,0.3590760953543147,Low,Customer has complaint history,Continue regular customer engagement
+C10047,Customer_48,3.0,0.16666666666666666,0.0,40,0.35859265689009956,Low,Relatively low transaction activity,Continue regular customer engagement
+C10039,Customer_40,0.0,0.2,0.0,42,0.35786264249387856,Low,Relatively low transaction activity,Continue regular customer engagement
+C10080,Customer_81,2.0,0.2,0.0,46,0.35758169795571826,Low,Relatively low transaction activity,Continue regular customer engagement
+C10573,Customer_574,2.0,0.0,0.0,52,0.35567245125416624,Low,Customer has complaint history,Continue regular customer engagement
+C10815,Customer_816,1.0,0.6666666666666666,0.0,74,0.3554892712540227,Low,High negative call rate,Continue regular customer engagement
+C10549,Customer_550,4.0,0.25,0.0,58,0.3552650402766989,Low,High complaint count,Continue regular customer engagement
+C10190,Customer_191,2.0,0.5,0.0,48,0.35522120581194416,Low,High negative call rate,Continue regular customer engagement
+C10444,Customer_445,4.0,0.0,0.0,53,0.35489808628881647,Low,High complaint count,Continue regular customer engagement
+C10041,Customer_42,4.0,0.25,0.0,61,0.35482682528733034,Low,High complaint count,Continue regular customer engagement
+C10017,Customer_18,1.0,0.25,0.0,57,0.3545222573113186,Low,Customer has complaint history,Continue regular customer engagement
+C10679,Customer_680,1.0,0.3333333333333333,0.0,58,0.35360374681492746,Low,Customer has complaint history,Continue regular customer engagement
+C10347,Customer_348,4.0,0.0,0.0,45,0.3531192149650141,Low,High complaint count,Continue regular customer engagement
+C10132,Customer_133,2.0,0.75,0.0,67,0.35281037519471825,Low,High negative call rate,Continue regular customer engagement
+C10923,Customer_924,2.0,0.14285714285714285,0.0,56,0.35254552903783337,Low,Customer has complaint history,Continue regular customer engagement
+C10839,Customer_840,2.0,0.0,0.0,49,0.35224175168403027,Low,Relatively low transaction activity,Continue regular customer engagement
+C10305,Customer_306,0.0,0.25,0.0,49,0.3520163438210702,Low,Relatively low transaction activity,Continue regular customer engagement
+C10745,Customer_746,2.0,0.14285714285714285,0.0,48,0.3509626466227555,Low,Relatively low transaction activity,Continue regular customer engagement
+C10116,Customer_117,2.0,0.3333333333333333,0.0,51,0.35064327875394397,Low,Customer has complaint history,Continue regular customer engagement
+C10649,Customer_650,0.0,0.4,0.0,42,0.35018308483943333,Low,Relatively low transaction activity,Continue regular customer engagement
+C10209,Customer_210,2.0,0.16666666666666666,0.0,51,0.3499067216010224,Low,Customer has complaint history,Continue regular customer engagement
+C10726,Customer_727,1.0,0.0,0.0,48,0.349861577565392,Low,Relatively low transaction activity,Continue regular customer engagement
+C10523,Customer_524,3.0,0.5,2.0,62,0.349354426561568,Low,"High negative call rate, Multiple open complaints",Continue regular customer engagement
+C10173,Customer_174,1.0,0.0,0.0,48,0.34932052436776584,Low,Relatively low transaction activity,Continue regular customer engagement
+C10929,Customer_930,2.0,0.0,1.0,52,0.3489601590496891,Low,Customer has complaint history,Continue regular customer engagement
+C10014,Customer_15,2.0,0.3333333333333333,0.0,37,0.3489003146619059,Low,Relatively low transaction activity,Continue regular customer engagement
+C10461,Customer_462,1.0,0.3333333333333333,0.0,55,0.3478937420373195,Low,Customer has complaint history,Continue regular customer engagement
+C10829,Customer_830,3.0,0.25,0.0,46,0.3469463753766197,Low,Relatively low transaction activity,Continue regular customer engagement
+C10856,Customer_857,0.0,0.25,0.0,39,0.34521265816837116,Low,Relatively low transaction activity,Continue regular customer engagement
+C10241,Customer_242,2.0,0.0,0.0,40,0.3433093761157136,Low,Relatively low transaction activity,Continue regular customer engagement
+C10802,Customer_803,3.0,0.2727272727272727,0.0,37,0.3429381514900045,Low,Relatively low transaction activity,Continue regular customer engagement
+C10314,Customer_315,5.0,0.25,0.0,46,0.3428424814689106,Low,High complaint count,Continue regular customer engagement
+C10555,Customer_556,3.0,0.125,0.0,54,0.3427663020830697,Low,Customer has complaint history,Continue regular customer engagement
+C10086,Customer_87,2.0,0.0,0.0,62,0.34266707285750214,Low,Customer has complaint history,Continue regular customer engagement
+C10171,Customer_172,3.0,0.0,1.0,51,0.3417598722760002,Low,Customer has complaint history,Continue regular customer engagement
+C10530,Customer_531,2.0,0.2222222222222222,0.0,58,0.34170598873800956,Low,Customer has complaint history,Continue regular customer engagement
+C10310,Customer_311,2.0,0.16666666666666666,0.0,52,0.34071239390496777,Low,Customer has complaint history,Continue regular customer engagement
+C10481,Customer_482,5.0,0.0,2.0,53,0.3392516736495202,Low,"Multiple open complaints, High complaint count",Continue regular customer engagement
+C10268,Customer_269,4.0,0.0,0.0,59,0.33884145553813705,Low,High complaint count,Continue regular customer engagement
+C10709,Customer_710,3.0,0.0,1.0,46,0.33880767777131754,Low,Relatively low transaction activity,Continue regular customer engagement
+C10407,Customer_408,1.0,0.25,0.0,45,0.3387812325589844,Low,Relatively low transaction activity,Continue regular customer engagement
+C10916,Customer_917,3.0,0.25,1.0,48,0.33851278309924326,Low,Relatively low transaction activity,Continue regular customer engagement
+C10600,Customer_601,3.0,0.3333333333333333,0.0,60,0.33774966450397625,Low,Customer has complaint history,Continue regular customer engagement
+C10379,Customer_380,4.0,0.3333333333333333,1.0,60,0.33741364228808746,Low,High complaint count,Continue regular customer engagement
+C10094,Customer_95,1.0,0.2,0.0,54,0.3373915978880601,Low,Customer has complaint history,Continue regular customer engagement
+C10977,Customer_978,2.0,0.25,0.0,43,0.3371961435444817,Low,Relatively low transaction activity,Continue regular customer engagement
+C10127,Customer_128,4.0,0.0,1.0,49,0.336956239114539,Low,High complaint count,Continue regular customer engagement
+C10811,Customer_812,2.0,0.3333333333333333,0.0,55,0.3357217691806665,Low,Customer has complaint history,Continue regular customer engagement
+C10620,Customer_621,3.0,0.0,1.0,53,0.3344996840302836,Low,Customer has complaint history,Continue regular customer engagement
+C10254,Customer_255,0.0,0.2,0.0,50,0.3344119746170019,Low,Customer has negative call interactions,Continue regular customer engagement
+C10693,Customer_694,4.0,0.0,0.0,55,0.33405992859243683,Low,High complaint count,Continue regular customer engagement
+C10192,Customer_193,1.0,0.0,0.0,43,0.33319880696181525,Low,Relatively low transaction activity,Continue regular customer engagement
+C10121,Customer_122,0.0,0.2,0.0,42,0.3326495545597502,Low,Relatively low transaction activity,Continue regular customer engagement
+C10179,Customer_180,1.0,0.2,0.0,67,0.3326142571298753,Low,Customer has complaint history,Continue regular customer engagement
+C10292,Customer_293,3.0,0.16666666666666666,0.0,70,0.33176300511474577,Low,Customer has complaint history,Continue regular customer engagement
+C10375,Customer_376,3.0,0.25,0.0,59,0.331690821264002,Low,Customer has complaint history,Continue regular customer engagement
+C10690,Customer_691,1.0,0.375,0.0,50,0.3298882250597562,Low,Customer has complaint history,Continue regular customer engagement
+C10537,Customer_538,6.0,0.0,2.0,54,0.32915339736014865,Low,"Multiple open complaints, High complaint count",Continue regular customer engagement
+C10442,Customer_443,3.0,0.0,1.0,52,0.3286403392551097,Low,Customer has complaint history,Continue regular customer engagement
+C10642,Customer_643,3.0,0.0,0.0,44,0.32808504915304276,Low,Relatively low transaction activity,Continue regular customer engagement
+C10700,Customer_701,1.0,0.3333333333333333,0.0,65,0.32741707492710875,Low,Customer has complaint history,Continue regular customer engagement
+C10108,Customer_109,5.0,0.6666666666666666,0.0,40,0.32676057835086175,Low,"High negative call rate, High complaint count",Continue regular customer engagement
+C10588,Customer_589,0.0,0.375,0.0,50,0.32590451009805776,Low,Customer has negative call interactions,Continue regular customer engagement
+C10810,Customer_811,0.0,0.5,0.0,42,0.3246424101605137,Low,High negative call rate,Continue regular customer engagement
+C10906,Customer_907,1.0,0.3333333333333333,0.0,48,0.3242453174143351,Low,Relatively low transaction activity,Continue regular customer engagement
+C10554,Customer_555,2.0,0.0,0.0,50,0.3242310183007602,Low,Customer has complaint history,Continue regular customer engagement
+C10376,Customer_377,1.0,0.4,0.0,55,0.32331045577881706,Low,Customer has complaint history,Continue regular customer engagement
+C10500,Customer_501,3.0,0.0,0.0,48,0.32193118003713733,Low,Relatively low transaction activity,Continue regular customer engagement
+C10910,Customer_911,5.0,0.25,1.0,57,0.32142321410425706,Low,High complaint count,Continue regular customer engagement
+C10089,Customer_90,3.0,0.0,0.0,58,0.32074697796300655,Low,Customer has complaint history,Continue regular customer engagement
+C10277,Customer_278,0.0,0.2857142857142857,0.0,52,0.3201891902775944,Low,Customer has negative call interactions,Continue regular customer engagement
+C10772,Customer_773,2.0,0.25,0.0,45,0.31920380798882164,Low,Relatively low transaction activity,Continue regular customer engagement
+C10486,Customer_487,1.0,0.3333333333333333,0.0,59,0.318096712801537,Low,Customer has complaint history,Continue regular customer engagement
+C10415,Customer_416,0.0,0.3333333333333333,0.0,56,0.3175170651604441,Low,Customer has negative call interactions,Continue regular customer engagement
+C10051,Customer_52,6.0,0.1111111111111111,1.0,68,0.3173720757977643,Low,High complaint count,Continue regular customer engagement
+C10492,Customer_493,4.0,0.0,1.0,47,0.31589173239690177,Low,High complaint count,Continue regular customer engagement
+C10377,Customer_378,5.0,0.09090909090909091,0.0,51,0.31457154073795807,Low,High complaint count,Continue regular customer engagement
+C10540,Customer_541,0.0,0.0,0.0,58,0.3136767729252752,Low,Low observed customer engagement,Continue regular customer engagement
+C10844,Customer_845,3.0,0.0,1.0,54,0.3110740695302341,Low,Customer has complaint history,Continue regular customer engagement
+C10595,Customer_596,2.0,0.0,0.0,51,0.30942341451074346,Low,Customer has complaint history,Continue regular customer engagement
+C10535,Customer_536,0.0,0.16666666666666666,0.0,46,0.30835260792329044,Low,Relatively low transaction activity,Continue regular customer engagement
+C10797,Customer_798,2.0,0.25,0.0,59,0.30827653362593077,Low,Customer has complaint history,Continue regular customer engagement
+C10160,Customer_161,0.0,0.0,0.0,53,0.3080998569670412,Low,Low observed customer engagement,Continue regular customer engagement
+C10336,Customer_337,3.0,0.14285714285714285,0.0,50,0.30748621359325873,Low,Customer has complaint history,Continue regular customer engagement
+C10446,Customer_447,1.0,0.3333333333333333,0.0,64,0.307374018285096,Low,Customer has complaint history,Continue regular customer engagement
+C10168,Customer_169,2.0,0.25,0.0,59,0.3071133788120462,Low,Customer has complaint history,Continue regular customer engagement
+C10216,Customer_217,4.0,0.0,0.0,47,0.30708589403446,Low,High complaint count,Continue regular customer engagement
+C10046,Customer_47,5.0,0.0,0.0,54,0.30565035352146225,Low,High complaint count,Continue regular customer engagement
+C10849,Customer_850,2.0,0.0,0.0,61,0.3039271196404149,Low,Customer has complaint history,Continue regular customer engagement
+C10503,Customer_504,2.0,0.25,0.0,48,0.3029036028495971,Low,Relatively low transaction activity,Continue regular customer engagement
+C10610,Customer_611,4.0,0.0,0.0,45,0.3013188374909016,Low,High complaint count,Continue regular customer engagement
+C10864,Customer_865,3.0,0.2,0.0,60,0.30049893558163476,Low,Customer has complaint history,Continue regular customer engagement
+C10291,Customer_292,0.0,0.4,0.0,47,0.30046008674485336,Low,Relatively low transaction activity,Continue regular customer engagement
+C10437,Customer_438,2.0,1.0,0.0,63,0.2982139910018377,Low,High negative call rate,Continue regular customer engagement
+C10634,Customer_635,3.0,0.25,0.0,46,0.2980997699159349,Low,Relatively low transaction activity,Continue regular customer engagement
+C10494,Customer_495,2.0,0.0,0.0,47,0.2975281389374306,Low,Relatively low transaction activity,Continue regular customer engagement
+C10566,Customer_567,2.0,0.23076923076923078,0.0,50,0.2960142150952984,Low,Customer has complaint history,Continue regular customer engagement
+C10282,Customer_283,2.0,0.0,0.0,49,0.2956311794390655,Low,Relatively low transaction activity,Continue regular customer engagement
+C10111,Customer_112,2.0,0.0,0.0,63,0.2956274349693754,Low,Customer has complaint history,Continue regular customer engagement
+C10309,Customer_310,0.0,0.16666666666666666,0.0,53,0.29362159880830435,Low,Customer has negative call interactions,Continue regular customer engagement
+C10260,Customer_261,0.0,0.5,0.0,54,0.2926481659553603,Low,High negative call rate,Continue regular customer engagement
+C10393,Customer_394,2.0,0.25,0.0,60,0.29260220424010813,Low,Customer has complaint history,Continue regular customer engagement
+C10708,Customer_709,3.0,0.0,0.0,46,0.2920069558778618,Low,Relatively low transaction activity,Continue regular customer engagement
+C10858,Customer_859,1.0,0.2,0.0,54,0.2915669703052457,Low,Customer has complaint history,Continue regular customer engagement
+C10328,Customer_329,1.0,0.3333333333333333,0.0,62,0.29059593984203513,Low,Customer has complaint history,Continue regular customer engagement
+C10727,Customer_728,2.0,0.1111111111111111,0.0,50,0.2900125774372918,Low,Customer has complaint history,Continue regular customer engagement
+C10944,Customer_945,1.0,0.16666666666666666,0.0,47,0.28933334777351954,Low,Relatively low transaction activity,Continue regular customer engagement
+C10699,Customer_700,2.0,0.0,0.0,52,0.28875582475261974,Low,Customer has complaint history,Continue regular customer engagement
+C10780,Customer_781,2.0,0.14285714285714285,0.0,43,0.28848261855240964,Low,Relatively low transaction activity,Continue regular customer engagement
+C10287,Customer_288,0.0,0.25,0.0,43,0.28821983189829364,Low,Relatively low transaction activity,Continue regular customer engagement
+C10668,Customer_669,3.0,0.0,1.0,42,0.2881737758136253,Low,Relatively low transaction activity,Continue regular customer engagement
+C10025,Customer_26,1.0,0.25,0.0,55,0.2875556021680892,Low,Customer has complaint history,Continue regular customer engagement
+C10007,Customer_8,0.0,0.0,0.0,50,0.2858390734676363,Low,Low observed customer engagement,Continue regular customer engagement
+C10873,Customer_874,2.0,0.3333333333333333,0.0,59,0.28476045416827844,Low,Customer has complaint history,Continue regular customer engagement
+C10659,Customer_660,1.0,0.3333333333333333,0.0,42,0.2845297321995288,Low,Relatively low transaction activity,Continue regular customer engagement
+C10313,Customer_314,1.0,0.0,0.0,42,0.28412960413095956,Low,Relatively low transaction activity,Continue regular customer engagement
+C10479,Customer_480,1.0,0.5,0.0,50,0.28381352808087157,Low,High negative call rate,Continue regular customer engagement
+C10443,Customer_444,0.0,1.0,0.0,53,0.2835959443954172,Low,High negative call rate,Continue regular customer engagement
+C10233,Customer_234,0.0,0.5,0.0,59,0.2825586796606658,Low,High negative call rate,Continue regular customer engagement
+C10838,Customer_839,4.0,0.0,1.0,51,0.28234186264080663,Low,High complaint count,Continue regular customer engagement
+C10330,Customer_331,3.0,0.25,1.0,50,0.2821926325353228,Low,Customer has complaint history,Continue regular customer engagement
+C10414,Customer_415,1.0,0.16666666666666666,0.0,61,0.28035440879366186,Low,Customer has complaint history,Continue regular customer engagement
+C10113,Customer_114,1.0,0.0,0.0,52,0.27959336780714994,Low,Customer has complaint history,Continue regular customer engagement
+C10293,Customer_294,2.0,0.0,0.0,54,0.2788835855987425,Low,Customer has complaint history,Continue regular customer engagement
+C10143,Customer_144,1.0,0.0,0.0,43,0.2775350844194927,Low,Relatively low transaction activity,Continue regular customer engagement
+C10083,Customer_84,0.0,0.2,0.0,45,0.2769542400637503,Low,Relatively low transaction activity,Continue regular customer engagement
+C10308,Customer_309,0.0,0.0,0.0,53,0.27556335338827653,Low,Low observed customer engagement,Continue regular customer engagement
+C10303,Customer_304,6.0,0.0,0.0,58,0.27446864068647175,Low,High complaint count,Continue regular customer engagement
+C10203,Customer_204,0.0,0.25,0.0,48,0.27347465924398684,Low,Relatively low transaction activity,Continue regular customer engagement
+C10626,Customer_627,0.0,0.0,0.0,46,0.27110800389673506,Low,Relatively low transaction activity,Continue regular customer engagement
+C10646,Customer_647,3.0,0.3333333333333333,0.0,54,0.27104758026935344,Low,Customer has complaint history,Continue regular customer engagement
+C10517,Customer_518,2.0,0.0,0.0,55,0.26988010812954555,Low,Customer has complaint history,Continue regular customer engagement
+C10368,Customer_369,0.0,0.6666666666666666,0.0,47,0.26983445349190455,Low,High negative call rate,Continue regular customer engagement
+C10388,Customer_389,0.0,0.0,0.0,54,0.2686125582450846,Low,Low observed customer engagement,Continue regular customer engagement
+C10269,Customer_270,5.0,0.25,1.0,57,0.26858788366195346,Low,High complaint count,Continue regular customer engagement
+C10973,Customer_974,1.0,0.0,0.0,44,0.2679650721231798,Low,Relatively low transaction activity,Continue regular customer engagement
+C10357,Customer_358,3.0,0.16666666666666666,0.0,53,0.26711624566215075,Low,Customer has complaint history,Continue regular customer engagement
+C10976,Customer_977,1.0,0.3333333333333333,0.0,47,0.26565201792485466,Low,Relatively low transaction activity,Continue regular customer engagement
+C10897,Customer_898,3.0,0.0,0.0,70,0.2641205433840141,Low,Customer has complaint history,Continue regular customer engagement
+C10229,Customer_230,1.0,0.3333333333333333,0.0,52,0.26409534119070666,Low,Customer has complaint history,Continue regular customer engagement
+C10239,Customer_240,3.0,0.3333333333333333,0.0,57,0.2625417435291148,Low,Customer has complaint history,Continue regular customer engagement
+C10462,Customer_463,2.0,0.0,1.0,64,0.26204181095266504,Low,Customer has complaint history,Continue regular customer engagement
+C10593,Customer_594,1.0,0.0,0.0,57,0.26098384979448586,Low,Customer has complaint history,Continue regular customer engagement
+C10639,Customer_640,3.0,0.14285714285714285,0.0,62,0.2600196655112448,Low,Customer has complaint history,Continue regular customer engagement
+C10914,Customer_915,4.0,0.2,0.0,45,0.259444732684614,Low,High complaint count,Continue regular customer engagement
+C10705,Customer_706,0.0,0.2,0.0,54,0.25862590834792604,Low,Customer has negative call interactions,Continue regular customer engagement
+C10823,Customer_824,0.0,0.2,0.0,54,0.2583797380762452,Low,Customer has negative call interactions,Continue regular customer engagement
+C10762,Customer_763,3.0,0.0,0.0,48,0.256893845076116,Low,Relatively low transaction activity,Continue regular customer engagement
+C10850,Customer_851,2.0,0.0,0.0,44,0.2556596155137405,Low,Relatively low transaction activity,Continue regular customer engagement
+C10886,Customer_887,5.0,0.0,0.0,53,0.2541233373268726,Low,High complaint count,Continue regular customer engagement
+C10753,Customer_754,9.0,0.0,2.0,61,0.2514726079617112,Low,"Multiple open complaints, High complaint count",Continue regular customer engagement
+C10689,Customer_690,3.0,0.0,0.0,54,0.25015248662754563,Low,Customer has complaint history,Continue regular customer engagement
+C10813,Customer_814,2.0,0.0,0.0,46,0.24850602194473292,Low,Relatively low transaction activity,Continue regular customer engagement
+C10990,Customer_991,0.0,0.0,0.0,43,0.24850319080034394,Low,Relatively low transaction activity,Continue regular customer engagement
+C10918,Customer_919,0.0,0.2,0.0,51,0.24552833837392432,Low,Customer has negative call interactions,Continue regular customer engagement
+C10869,Customer_870,1.0,0.0,0.0,59,0.2446192907742815,Low,Customer has complaint history,Continue regular customer engagement
+C10213,Customer_214,4.0,0.0,2.0,66,0.24458252867134497,Low,"Multiple open complaints, High complaint count",Continue regular customer engagement
+C10299,Customer_300,0.0,0.0,0.0,58,0.24200578901906597,Low,Low observed customer engagement,Continue regular customer engagement
+C10105,Customer_106,1.0,0.16666666666666666,0.0,67,0.24156321615253476,Low,Customer has complaint history,Continue regular customer engagement
+C10837,Customer_838,0.0,0.5,0.0,54,0.2412948704261728,Low,High negative call rate,Continue regular customer engagement
+C10585,Customer_586,0.0,0.2,0.0,49,0.2394120564946126,Low,Relatively low transaction activity,Continue regular customer engagement
+C10289,Customer_290,3.0,0.0,0.0,45,0.23932332793150357,Low,Relatively low transaction activity,Continue regular customer engagement
+C10648,Customer_649,5.0,0.2,0.0,67,0.2366292434839498,Low,High complaint count,Continue regular customer engagement
+C10015,Customer_16,0.0,0.3333333333333333,0.0,66,0.2309630188892671,Low,Customer has negative call interactions,Continue regular customer engagement
+C10508,Customer_509,2.0,0.2,0.0,70,0.23023691091418277,Low,Customer has complaint history,Continue regular customer engagement
+C10808,Customer_809,4.0,0.0,0.0,50,0.22907940063202728,Low,High complaint count,Continue regular customer engagement
+C10558,Customer_559,2.0,0.0,0.0,46,0.22122566283411133,Low,Relatively low transaction activity,Continue regular customer engagement
+C10013,Customer_14,1.0,0.3333333333333333,0.0,60,0.2196442107668648,Low,Customer has complaint history,Continue regular customer engagement
+C10992,Customer_993,2.0,0.16666666666666666,0.0,58,0.21926212104526938,Low,Customer has complaint history,Continue regular customer engagement
+C10624,Customer_625,0.0,0.0,0.0,53,0.21900235684293287,Low,Low observed customer engagement,Continue regular customer engagement
+C10513,Customer_514,1.0,0.0,0.0,45,0.21707958418009615,Low,Relatively low transaction activity,Continue regular customer engagement
+C10742,Customer_743,0.0,0.0,0.0,54,0.21662284235604026,Low,Low observed customer engagement,Continue regular customer engagement
+C10332,Customer_333,0.0,0.2,0.0,67,0.21657955244283678,Low,Customer has negative call interactions,Continue regular customer engagement
+C10030,Customer_31,1.0,0.5,0.0,63,0.21404234770715938,Low,High negative call rate,Continue regular customer engagement
+C10176,Customer_177,1.0,0.0,0.0,48,0.213481060403704,Low,Relatively low transaction activity,Continue regular customer engagement
+C10396,Customer_397,2.0,0.0,0.0,58,0.21267142692461594,Low,Customer has complaint history,Continue regular customer engagement
+C10023,Customer_24,8.0,0.0,2.0,56,0.21222687662310474,Low,"Multiple open complaints, High complaint count",Continue regular customer engagement
+C10455,Customer_456,2.0,0.2,0.0,62,0.20925854315224787,Low,Customer has complaint history,Continue regular customer engagement
+C10335,Customer_336,3.0,0.0,0.0,55,0.20694303476520098,Low,Customer has complaint history,Continue regular customer engagement
+C10409,Customer_410,4.0,0.0,0.0,52,0.20271992720393997,Low,High complaint count,Continue regular customer engagement
+C10542,Customer_543,2.0,0.25,0.0,60,0.1998512591637393,Low,Customer has complaint history,Continue regular customer engagement
+C10178,Customer_179,0.0,0.0,0.0,55,0.19439617717325294,Low,Low observed customer engagement,Continue regular customer engagement
+C10987,Customer_988,0.0,0.16666666666666666,0.0,63,0.19418401322936915,Low,Customer has negative call interactions,Continue regular customer engagement
+C10896,Customer_897,0.0,0.0,0.0,45,0.19301768214374948,Low,Relatively low transaction activity,Continue regular customer engagement
+C10056,Customer_57,1.0,0.0,0.0,56,0.1890913671446867,Low,Customer has complaint history,Continue regular customer engagement
+C10155,Customer_156,1.0,0.0,0.0,54,0.18297154847324668,Low,Customer has complaint history,Continue regular customer engagement
+C10614,Customer_615,3.0,0.0,0.0,55,0.1825077513894197,Low,Customer has complaint history,Continue regular customer engagement
+C10496,Customer_497,0.0,0.0,0.0,50,0.18205172582842163,Low,Low observed customer engagement,Continue regular customer engagement
+C10580,Customer_581,3.0,0.0,0.0,57,0.16157059740146734,Low,Customer has complaint history,Continue regular customer engagement
+C10696,Customer_697,6.0,0.0,0.0,53,0.15554670927029235,Low,High complaint count,Continue regular customer engagement
+C10248,Customer_249,0.0,0.0,0.0,46,0.1510851032585509,Low,Relatively low transaction activity,Continue regular customer engagement
+C10717,Customer_718,2.0,0.0,0.0,57,0.12073397999896357,Low,Customer has complaint history,Continue regular customer engagement
+C10411,Customer_412,4.0,0.0,0.0,49,0.11511345365091798,Low,High complaint count,Continue regular customer engagement
+C10907,Customer_908,0.0,0.0,0.0,55,0.112837655045261,Low,Low observed customer engagement,Continue regular customer engagement
