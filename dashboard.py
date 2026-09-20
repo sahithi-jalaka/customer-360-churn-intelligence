@@ -666,9 +666,7 @@ probability = prediction[
     "predicted_churn_probability"
 ]
 
-
 col1, col2 = st.columns([1, 2])
-
 
 with col1:
 
@@ -677,14 +675,15 @@ with col1:
         f"{probability:.2%}"
     )
 
-
 with col2:
 
     st.progress(
-        float(probability),
-        text=f"AI Churn Risk: {probability:.2%}"
+        float(probability)
     )
 
+    st.write(
+        f"**AI Churn Risk: {probability:.2%}**"
+    )
 
 # ============================================================
 # RISK LEVEL
