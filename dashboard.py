@@ -130,6 +130,18 @@ st.markdown(
         font-size: 13px;
     }
 
+    /* Fix Streamlit metric and text visibility */
+    .stMetric,
+    .stMetric label,
+    .stMetric div,
+    .stMetric [data-testid="stMetricValue"] {
+        color: #111827 !important;
+    }
+
+    .stProgress {
+        color: #111827 !important;
+    }
+
     </style>
     """,
     unsafe_allow_html=True
@@ -668,6 +680,7 @@ probability = prediction[
 
 col1, col2 = st.columns([1, 2])
 
+
 with col1:
 
     st.write("**Churn Probability**")
@@ -676,6 +689,7 @@ with col1:
         f"<h2 style='color:#111827; margin-top:0;'>{probability:.2%}</h2>",
         unsafe_allow_html=True
     )
+
 
 with col2:
 
@@ -689,6 +703,8 @@ with col2:
         f"<strong style='color:#111827;'>AI Churn Risk: {probability:.2%}</strong>",
         unsafe_allow_html=True
     )
+
+
 # ============================================================
 # RISK LEVEL
 # ============================================================
