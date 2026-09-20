@@ -670,21 +670,25 @@ col1, col2 = st.columns([1, 2])
 
 with col1:
 
-    st.metric(
-        "Churn Probability",
-        f"{probability:.2%}"
+    st.write("**Churn Probability**")
+
+    st.markdown(
+        f"<h2 style='color:#111827; margin-top:0;'>{probability:.2%}</h2>",
+        unsafe_allow_html=True
     )
 
 with col2:
+
+    st.write("**AI Churn Risk**")
 
     st.progress(
         float(probability)
     )
 
-    st.write(
-        f"**AI Churn Risk: {probability:.2%}**"
+    st.markdown(
+        f"<strong style='color:#111827;'>AI Churn Risk: {probability:.2%}</strong>",
+        unsafe_allow_html=True
     )
-
 # ============================================================
 # RISK LEVEL
 # ============================================================
